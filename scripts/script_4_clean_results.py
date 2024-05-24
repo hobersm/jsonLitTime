@@ -1,6 +1,7 @@
 import json
 from bs4 import BeautifulSoup
 import os
+import re
 
 # Function to clean HTML tags and decode HTML entities in the snippet
 def clean_snippet(snippet):
@@ -8,6 +9,11 @@ def clean_snippet(snippet):
     cleaned_text = BeautifulSoup(snippet, "html.parser").get_text()
     # Manually replace Unicode escape sequences with actual characters
     # cleaned_text = cleaned_text.encode('utf-8').decode('unicode_escape')
+
+    # Fix spacing issues around punctuation
+    cleaned_text = re.sub(r'\s+([?.!",;:])', r'\1', cleaned_text)
+    cleaned_text = re.sub(r'([?.!",;:])\s+', r'\1 ', cleaned_text)
+
     # Remove non-breaking space entities and Unicode non-breaking spaces
     return cleaned_text.replace('&nbsp;', ' ').replace('\xa0', ' ')
 
