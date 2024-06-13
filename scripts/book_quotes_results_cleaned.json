@@ -2771,7 +2771,6 @@
    "SELECT": null
   }
  ],
- 
  "02:03": [
   {
    "Time": "02:03",
@@ -4116,7 +4115,7 @@
    "SELECT": 1
   }
  ],
- "02:41": [ //BOOKMARKMEH
+ "02:41": [
   {
    "Time": "02:41",
    "Quote_Time": "2:41 AM",
@@ -4125,7 +4124,7 @@
    "Author": "Jaeh Desir",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=uBSYCgAAQBAJ&pg=PT248&dq=%222:41+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:41",
@@ -4145,7 +4144,7 @@
    "Author": "SCP Foundation, Various Authors",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=I_mwDwAAQBAJ&pg=PT2078&dq=%222:41am%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:41",
@@ -4165,7 +4164,7 @@
    "Author": "Rebecca Forster",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=wgOEEAAAQBAJ&pg=PT70&dq=%22forty+one+minutes+after+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:41",
@@ -4201,11 +4200,11 @@
    "Time": "02:41",
    "Quote_Time": "nineteen minutes to three",
    "Quote": "... Nineteen minutes to three. “No need to rush,” she told Emma when there was a knock on the door. She was sure she'd hung the Do Not Disturb sign on the doorknob and told the chauffeur not to expect them before three. At the rehearsal the...",
-   "Title": "The Clifton Chronicles, Books 1-4",
+   "Title": "Only Time Will Tell",
    "Author": "Jeffrey Archer",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=kEnABQAAQBAJ&pg=PT336&dq=%22nineteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:41",
@@ -4215,7 +4214,7 @@
    "Author": "C. K. Kelly Martin",
    "Categories": "Young Adult Fiction",
    "URL": "http://books.google.ca/books?id=NEN1EAAAQBAJ&pg=PA42&dq=%22nineteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:41",
@@ -4235,7 +4234,7 @@
    "Author": "Harry Stephen Keeler",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=TMNNDwAAQBAJ&pg=PA274&dq=%2219+minutes+to+3%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "02:42": [
@@ -4272,22 +4271,22 @@
   {
    "Time": "02:42",
    "Quote_Time": "forty two minutes past two",
-   "Quote": "... Yes, five points,\" said the Master. Looking up through swollen eyelids, he made no motion toward rearranging the board. The game had ended at forty - two minutes past two in the afternoon. A B C D E F H K M NO 176 THE MASTER OF GO.",
+   "Quote": "... Yes, five points,\" said the Master. Looking up through swollen eyelids, he made no motion toward rearranging the board. The game...",
    "Title": "The Master of Go",
    "Author": "Yasunari Kawabata",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=mYBd5IdZI9EC&pg=PA176&dq=%22forty+two+minutes+past+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:42",
    "Quote_Time": "forty two minutes past two",
-   "Quote": "... forty - two minutes past two it was over, and the Master had lost.\"\" Saito smiled up from the board as though the old dead master had just died again, under his hands. Ito entered the room and went in to dinner. Aoki followed...",
+   "Quote": "... forty-two minutes past two it was over, and the Master had lost.\"\" Saito smiled up from the board as though the old dead master had just died again, under his hands. Ito entered the room and went in to dinner. Aoki followed...",
    "Title": "Rendezvous at Kamakura Inn",
    "Author": "Marshall Browne",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=RLr7HiZ2KNIC&pg=PA160&dq=%22forty+two+minutes+past+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:42",
@@ -4297,7 +4296,7 @@
    "Author": "Van Reid",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=w-g8CwAAQBAJ&pg=PA205&dq=%22forty+two+minutes+past+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:42",
@@ -4312,22 +4311,22 @@
   {
    "Time": "02:42",
    "Quote_Time": "eighteen minutes to three",
-   "Quote": "Books 1 to 6 Peter Mulraney. CHAPTER 5 AT EIGHTEEN MINUTES to three on Wednesday afternoon, a white van with Australia Post signage pulled into the parking bay in front of the Brompton Post Office. The surveillance team watched the...",
-   "Title": "Stella Bruno Investigates",
+   "Quote": "AT EIGHTEEN MINUTES to three on Wednesday afternoon, a white van with Australia Post signage pulled into the parking bay in front of the Brompton Post Office. The surveillance team watched the...",
+   "Title": "A Gun of Many Parts",
    "Author": "Peter Mulraney",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=6kaVDwAAQBAJ&pg=PT129&dq=%22eighteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:42",
    "Quote_Time": "eighteen minutes to three",
-   "Quote": "Peter Mulraney. CHAPTER 5 AT EIGHTEEN MINUTES to three on Wednesday afternoon, a white van with Australia Post signage pulled into the parking bay in front of the Brompton Post Office. The surveillance team watched the driver climb out...",
+   "Quote": "AT EIGHTEEN MINUTES to three on Wednesday afternoon, a white van with Australia Post signage pulled into the parking bay in front of the Brompton Post Office. The surveillance team watched the driver climb out...",
    "Title": "A Gun of Many Parts",
    "Author": "Peter Mulraney",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=dfNRDwAAQBAJ&pg=PT46&dq=%22eighteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:42",
@@ -4337,7 +4336,7 @@
    "Author": "Richard Hilary Weber",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=4ymlBAAAQBAJ&pg=PT9&dq=%22eighteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:42",
@@ -4409,47 +4408,47 @@
    "Author": "Mrs. Henry Wood",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=0ZEtEAAAQBAJ&pg=PT89&dq=%22sixteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:44",
    "Quote_Time": "sixteen minutes to three",
    "Quote": "... Sixteen minutes to three! and I am a minute slow! How has the time passed? I ought to have been at— ” Mr. Galloway brought his words to a standstill, apparently too absorbed in the railway guide to conclude them. Roland Yorke, who...",
    "Title": "The Channings",
-   "Author": "Henry Mrs. Wood",
+   "Author": "Mrs. Henry Wood",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=ib2IEAAAQBAJ&pg=PT124&dq=%22sixteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:44",
    "Quote_Time": "sixteen minutes to three",
    "Quote": "... Sixteen minutes to three! and I am a minute slow! How has the time passed? I ought to have been at—”Mr. Galloway brought his words to a standstill, apparently too absorbed in the railway guide to conclude them. Roland Yorke, who had a...",
-   "Title": "Delphi Collected Works of Mrs. Henry Wood (Illustrated)",
+   "Title": "The Channings",
    "Author": "Ellen Wood, Mrs. Henry Wood",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=DnviCgAAQBAJ&pg=PT1656&dq=%22sixteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:44",
    "Quote_Time": "sixteen minutes to three",
    "Quote": "... sixteen minutes to three Joe Pettigrew walked down a path in a quiet part of Hollywood Cemetery. Not that it wasn't all quiet. But here it was remote and forgotten. The grass was green and cool. There was a small stone bench. He sat...",
-   "Title": "The Collected Short Stories",
+   "Title": "Professor Bingo's Snuff",
    "Author": "Raymond Chandler",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=g1bgCwAAQBAJ&pg=PT1160&dq=%22sixteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:44",
    "Quote_Time": "sixteen minutes to three",
    "Quote": "... sixteen minutes to three Joe Pettigrew walked down a path in a quiet part of Hollywood Cemetery. Not that it wasn't all quiet. But here it was remote and forgotten. The grass was green and cool. There was a small stone bench. He sat...",
-   "Title": "The Collected Raymond Chandler",
+   "Title": "Professor Bingo's Snuff",
    "Author": "Raymond Chandler",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=d_VnBgAAQBAJ&pg=PT2751&dq=%22sixteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:44",
@@ -4459,7 +4458,7 @@
    "Author": "Caro Peacock",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=88GiCgAAQBAJ&pg=PT165&dq=%22sixteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "02:48": [
@@ -4501,7 +4500,7 @@
    "Author": "Rebecca Dengate",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=k7ufEAAAQBAJ&pg=PT175&dq=%222:48am%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:48",
@@ -4511,7 +4510,7 @@
    "Author": "Eugene H. Nelson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=wL8jDwAAQBAJ&pg=PT70&dq=%222:48am%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:48",
@@ -4521,7 +4520,7 @@
    "Author": "Ryan D Pearson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=E5OtgmKjQ4AC&pg=PA109&dq=%222:48am%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:48",
@@ -4531,7 +4530,7 @@
    "Author": "K.L. Noone",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=mmNlEAAAQBAJ&pg=PT25&dq=%22forty+eight+minutes+after+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "02:48",
@@ -4551,7 +4550,7 @@
    "Author": "Robert Ludlum",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=cxcaqn8icw4C&pg=PA291&dq=%22twelve+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "02:49": [
