@@ -5,11 +5,17 @@ from tqdm import tqdm
 from collections import deque
 import os
 
+
 # List of your API keys
 #
-api_keys = ['AIzaSyAIEaSrLnhTfK1SibL-XYOapm-REFVE7ac', 'AIzaSyD1f3NbesnumEPu-oRxwMsbJT44QfvXkTs', 'AIzaSyDE_l_-yoNIGRmcmiNvg2bXQQqH7Pga27I', 'AIzaSyBnkaKkie_rArAX0l3jh1j0Aeh7jhaU3Dc']
+api_keys = [
+    'AIzaSyAIEaSrLnhTfK1SibL-XYOapm-REFVE7ac', 
+    'AIzaSyD1f3NbesnumEPu-oRxwMsbJT44QfvXkTs', 
+    'AIzaSyDE_l_-yoNIGRmcmiNvg2bXQQqH7Pga27I', 
+    'AIzaSyBnkaKkie_rArAX0l3jh1j0Aeh7jhaU3Dc'
+    ]
 search_base_url = 'https://www.googleapis.com/books/v1/volumes'
-quota_limit_per_key = 1000-23  # Set your quota limit per key here
+quota_limit_per_key = 1000-106  # Set your quota limit per key here
 requests_per_minute = 99  # Set the number of requests per minute limit here
 
 # Function to perform a search query using the Google Books API
@@ -19,7 +25,7 @@ def search_books(query, current_key):
         'printType': 'books',
         'filter': 'paid-ebooks',
         'orderBy': 'relevance',
-        'maxResults': 20,
+        'maxResults': 7,
         "langRestrict": "en",
         'key': current_key
     }

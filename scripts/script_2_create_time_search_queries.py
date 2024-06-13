@@ -25,14 +25,16 @@ def generate_search_queries(time):
     minute_word_with_o = f"o {minute_word}" if minute < 10 else minute_word
     queries = [
         # f'"{time}"',
+        f'"{to_12hr_time(hour, minute)}"',
         f'"{to_12hr_time2(hour, minute)}"',
+        f'"{minute} minutes after {hour % 12 if hour % 12 else 12}{"am" if hour < 12 else "pm"}"',
+        f'"{minute} minutes past {hour % 12 if hour % 12 else 12}{"am" if hour < 12 else "pm"}"',
         f'"{minute_word} minutes after {num2words(hour % 12 if hour % 12 else 12)}"',
-        f'"{minute} minutes after {hour % 12 if hour % 12 else 12}"',
-        f'"{num2words(60 - minute)} minutes to {num2words((hour + 1) % 12 if (hour + 1) % 12 else 12)}"',
-        f'"{60 - minute} minutes to {((hour + 1) % 12) if (hour + 1) % 12 else 12}"',
-        f'"{num2words(hour % 12 if hour % 12 else 12)} o\'clock"' if minute == 0 else '',
-        f'"{num2words(hour)} {minute_word_with_o}"' if minute != 0 else '',
-        f'"{to_12hr_time(hour, minute)}"'
+        f'"{minute_word} minutes past {num2words(hour % 12 if hour % 12 else 12)}"',
+        f'"{num2words(60 - minute)} minutes to {num2words((hour + 1) % 12 if (hour + 1) % 12 else 12)}"' if minute > 30 else '',
+        f'"{60 - minute} minutes to {((hour + 1) % 12) if (hour + 1) % 12 else 12}"' if minute > 30 else '',
+        f'"{num2words(hour % 12 if hour % 12 else 12)} o\'clock"' if minute == 0 else ''
+        # f'"{num2words(hour)} {minute_word_with_o}"' if minute != 0 else '',
     ]
     # Remove any empty strings from the list
     queries = [query for query in queries if query]
