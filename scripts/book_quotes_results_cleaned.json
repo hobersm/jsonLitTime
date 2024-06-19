@@ -5377,7 +5377,6 @@
    "SELECT": null
   }
  ],
- //BOOKMARKMEH
  "03:03": [
   {
    "Time": "03:03",
@@ -5422,12 +5421,12 @@
   {
    "Time": "03:03",
    "Quote_Time": "three minutes after three",
-   "Quote": "..., chattering loudly. ' Three minutes after three, ' said Agnes, and felt the tension ease and the words form.\" Threes, Nanny. She was thinking in threes. There was another candlestick out in the goat shed, and some 125.",
+   "Quote": "..., chattering loudly. 'Three minutes after three,' said Agnes, and felt the tension ease and the words form. 'Threes, Nanny. She was thinking in threes.",
    "Title": "Carpe Jugulum",
    "Author": "Terry Pratchett",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=8E7XoKuYabQC&pg=PA125&dq=%22three+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 3
   },
   {
    "Time": "03:03",
@@ -5437,7 +5436,7 @@
    "Author": "Lynn Hightower",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=qUqpBQAAQBAJ&pg=PT301&dq=%22three+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:03",
@@ -5447,17 +5446,17 @@
    "Author": "Arthur Train, Robert Williams Wood",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=Uox0CwAAQBAJ&pg=PT11&dq=%22three+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:03",
    "Quote_Time": "three minutes past three",
-   "Quote": "... Three minutes past three, said the watch. Four minutes past. Five minutes past. What had happened to the bells? Unable to stand it any longer, she whirled about and stared from one tower to the next, panic rising.\" Ring,\" she...",
+   "Quote": "... Three minutes past three, said the watch. Four minutes past. Five minutes past. What had happened to the bells? Unable to stand it any longer, she whirled about and stared from one tower to the next, panic rising. \"Ring,\" she...",
    "Title": "Gate of Darkness, Circle of Light",
    "Author": "Tanya Huff",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=kTudCgAAQBAJ&pg=PT230&dq=%22three+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "03:06": [
@@ -5465,31 +5464,31 @@
    "Time": "03:06",
    "Quote_Time": "3:06 AM",
    "Quote": "... 3:06 a.m., the GPS tells me to take a right onto a dirt road. I keep the Lincoln around forty miles per hour up and over a large rolling hill, down the backside, then up his brother. Two more hills. I take a left. Drive for a quarter...",
-   "Title": "3:10 a.m. (Henry Bins Books 2)",
+   "Title": "3:10 a.m.",
    "Author": "Nick Pirog",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=gHlYDwAAQBAJ&pg=PT58&dq=%223:06+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:06",
    "Quote_Time": "3:06 AM",
    "Quote": "... 3:06 a.m. I turn around and walk back to where Lassie is still asleep. I stop. Squint. “What in the hell?” Five feet above where Lassie and I slept is a large pile of black pebbles. I lean down and inspect the perfect pile. They aren't...",
-   "Title": "3:21 a.m. (Henry Bins Book 3)",
+   "Title": "3:21 a.m.",
    "Author": "Nick Pirog",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=DCzbDwAAQBAJ&pg=PT33&dq=%223:06+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:06",
    "Quote_Time": "3:06 AM",
    "Quote": "... 3:06 a.m. I hit the Skype button to call my dad, then remember Murdock shattered his laptop. I find my cell phone where Ingrid has it charging in the kitchen and dial my father. He answers on the third ring. “Sonny boy.” “Hey, Pops...",
-   "Title": "3:00 a.m. (Henry Bins Book 1)",
+   "Title": "3:00 a.m.",
    "Author": "Nick Pirog",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=CkDYCQAAQBAJ&pg=PT140&dq=%223:06+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:06",
@@ -5519,17 +5518,17 @@
    "Author": "Valerie Blue Dam-at Claveria",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=DUGAEAAAQBAJ&pg=PA69&dq=%223:06am%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:06",
    "Quote_Time": "3:06am",
-   "Quote": "... 3:06am May 26, 2429 Subject: PLEASE APPROVE THE DISSERTATION RESEARCH OF ANGTOR Dear Jenna Wong, You seriously expect Angtor to fill out a 37-page application form to conduct one miserable study about whether humans will destroy...",
-   "Title": "Unidentified Funny Objects 4",
-   "Author": "George R. R. Marin, Neil Gaiman, Esther Friesner, Piers Anthony, Jody Lynn Nye, Mike Resnick, Gini Koch",
+   "Quote": "Date: 3:06am May 26, 2429 Subject: PLEASE APPROVE THE DISSERTATION RESEARCH OF ANGTOR Dear Jenna Wong, You seriously expect Angtor to fill out a 37-page application form to conduct one miserable study about whether humans will destroy...",
+   "Title": "PLEASE APPROVE THE DISSERTATION RESEARCH OF ANGTOR",
+   "Author": "Caroline M. Yoachim",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=8CBHDwAAQBAJ&pg=PT33&dq=%223:06am%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:06",
@@ -5544,12 +5543,12 @@
   {
    "Time": "03:06",
    "Quote_Time": "six minutes after three",
-   "Quote": "... again. I couldn't tell if it was true ignorance or faked. “ Oh, let's say six minutes after three. '\" 1 “ And did you immediately recognize your neighbor when you arrived in your backyard?\" “ Sure. We all know Cliff Barber - he.",
+   "Quote": "... again. I couldn't tell if it was true ignorance or faked. “Oh, let's say six minutes after three.\" “And did you immediately recognize your neighbor when you arrived in your backyard?\" “Sure. We all know Cliff Barber...",
    "Title": "Murder at the Montrose Mansion",
    "Author": "Denise Jaden",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=bbnrEAAAQBAJ&pg=PT95&dq=%22six+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 3
   },
   {
    "Time": "03:06",
@@ -5559,7 +5558,7 @@
    "Author": "Debbie S. TenBrink",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=BEiCDwAAQBAJ&pg=PA336&dq=%22six+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:06",
@@ -5579,7 +5578,7 @@
    "Author": "Maurice Leblanc",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XRjmEAAAQBAJ&pg=PT190&dq=%22six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 2
   },
   {
    "Time": "03:06",
@@ -5589,7 +5588,7 @@
    "Author": "Maurice Leblanc",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=E1DmEAAAQBAJ&pg=PT189&dq=%22six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 2
   },
   {
    "Time": "03:06",
@@ -5619,7 +5618,7 @@
    "Author": "Maurice Leblanc",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=jVtIBAAAQBAJ&pg=PA35&dq=%22six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:06",
@@ -5629,19 +5628,20 @@
    "Author": "Maurice Leblanc",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=fm27EAAAQBAJ&pg=PT33&dq=%22six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "03:06",
    "Quote_Time": "six minutes past three",
-   "Quote": "... six minutes past three when Beardsley hit the bar. HAVE - A - LAUGH: The game had just kicked off and already we were seeing dead bodies. This young lad in a brand new ' Candy ' jersey was trying to pull himself up the fence. But...",
+   "Quote": "... six minutes past three when Beardsley hit the bar. HAVE-A-LAUGH: The game had just kicked off and already we were seeing dead bodies. This young lad in a brand new 'Candy' jersey was trying to pull himself up the fence. But...",
    "Title": "One Three One",
    "Author": "Julian Cope",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=ElSzAwAAQBAJ&pg=PT203&dq=%22six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
+ //BOOKMARKMEH
  "03:08": [
   {
    "Time": "03:08",
