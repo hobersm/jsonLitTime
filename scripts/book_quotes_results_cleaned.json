@@ -22901,7 +22901,6 @@
    "SELECT": null
   }
  ],
- //bookmarkmeh
  "11:13": [
   {
    "Time": "11:13",
@@ -22947,11 +22946,11 @@
    "Time": "11:13",
    "Quote_Time": "thirteen minutes after eleven",
    "Quote": "... thirteen minutes after eleven and I had found more than I'd expected. “When Father Nate mentioned the death of Father Clément, it reminded me of something we talked about yesterday. Francine got excited about the possibility that there...",
-   "Title": "The Pucelle Connection (Book 6)",
+   "Title": "The Pucelle Connection",
    "Author": "Estelle Ryan",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=cBMMBgAAQBAJ&pg=PT32&dq=%22thirteen+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:13",
@@ -22967,11 +22966,11 @@
    "Time": "11:13",
    "Quote_Time": "thirteen minutes after eleven",
    "Quote": "... thirteen minutes after eleven o'clock in the morning. Kazuko is beautiful, James, and looks more like you than me, I think. Our daughter weighed seven pounds, eight ounces, and was nineteen and a half inches long. She already has a full...",
-   "Title": "How Much Do You Love Me? Forbidden love is the greatest love of all",
+   "Title": "How Much Do You Love Me?",
    "Author": "Paul Mark Tag",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=QR2uEAAAQBAJ&pg=PT176&dq=%22thirteen+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:13",
@@ -23083,7 +23082,7 @@
    "Author": "Christy Fifield",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=AGKRooHPL3MC&pg=PA249&dq=%22sixteen+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:16",
@@ -23103,7 +23102,7 @@
    "Author": "Don Marquis",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=gjKjEAAAQBAJ&pg=PT111&dq=%22sixteen+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:16",
@@ -23113,7 +23112,7 @@
    "Author": "Dennis Wheatley",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=xXSsAQAAQBAJ&pg=PT466&dq=%22sixteen+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "11:21": [
@@ -23175,7 +23174,7 @@
    "Author": "Jim Carrington",
    "Categories": "Juvenile Fiction",
    "URL": "http://books.google.ca/books?id=QwncCQAAQBAJ&pg=PA37&dq=%22twenty+one+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:21",
@@ -23185,7 +23184,7 @@
    "Author": "J. C. Eaton",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=GSj6DwAAQBAJ&pg=PT202&dq=%22twenty+one+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:21",
@@ -23263,8 +23262,8 @@
    "Time": "11:22",
    "Quote_Time": "twenty two minutes after eleven",
    "Quote": "... Twenty-two minutes after eleven,' returned Passepartout, drawing an enormous silver watch from the depths of his pocket. 'You are too slow,' said Mr. Fogg. 'Pardon me, monsieur, it is impossible—' 'You are four minutes too slow. No...",
-   "Title": "A Tale of Two Cities and Around the World in 80 Days",
-   "Author": "Charles Dickens and Jules Verne",
+   "Title": "Around the World in 80 Days",
+   "Author": "Jules Verne",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=O2RHEAAAQBAJ&pg=PT526&dq=%22twenty+two+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": null
@@ -23297,7 +23296,7 @@
    "Author": "Jules Verne",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=Z278DwAAQBAJ&pg=PT7&dq=%22twenty+two+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:22",
@@ -23352,12 +23351,12 @@
   {
    "Time": "11:22",
    "Quote_Time": "twenty two minutes past eleven",
-   "Quote": "... Of course not. At twenty-two minutes past eleven we were in the middle of maths and I climbed underneath my desk. Everyone ignored me, they always do, even Mrs Ashworth, who teaches me now. She just rolled her eyes and let me.",
+   "Quote": "At twenty-two minutes past eleven we were in the middle of maths and I climbed underneath my desk. Everyone ignored me, they always do, even Mrs Ashworth, who teaches me now. She just rolled her eyes and let me.",
    "Title": "I'm Telling You, They're Aliens!",
    "Author": "Jeremy Strong",
    "Categories": "Juvenile Fiction",
    "URL": "http://books.google.ca/books?id=lUdr3u_d-FgC&pg=PT10&dq=%22twenty+two+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "11:22",
@@ -23439,7 +23438,7 @@
    "Author": "K.L. Smith",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=yJtjEAAAQBAJ&pg=PT259&dq=%22twenty+three+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:23",
@@ -23459,7 +23458,7 @@
    "Author": "Beverly Cleary",
    "Categories": "Juvenile Fiction",
    "URL": "http://books.google.ca/books?id=dajTIwVDZTQC&pg=PA17&dq=%22twenty+three+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:23",
@@ -23571,7 +23570,7 @@
    "Author": "Jess Kidd",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=6zmMDAAAQBAJ&pg=PA338&dq=%22twenty+four+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:24",
@@ -23591,7 +23590,7 @@
    "Author": "Simon Gray",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=egH6DwAAQBAJ&pg=PT64&dq=%22twenty+four+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:24",
@@ -23628,12 +23627,12 @@
   {
    "Time": "11:26",
    "Quote_Time": "twenty six minutes after eleven",
-   "Quote": "... twenty - six minutes after eleven o'clock, this Wednesday, the second of October, you are in my service.\" Phileas Fogg rose, took his hat in his left hand, put it on his head, and walked out. Mr. Fogg was thoroughly satisfied...",
+   "Quote": "... twenty-six minutes after eleven o'clock, this Wednesday, the second of October, you are in my service.\" Phileas Fogg rose, took his hat in his left hand, put it on his head, and walked out. Mr. Fogg was thoroughly satisfied...",
    "Title": "The Other Log of Phileas Fogg",
    "Author": "Philip José Farmer",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=1-PwEAAAQBAJ&pg=PT14&dq=%22twenty+six+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:26",
@@ -23693,7 +23692,7 @@
    "Author": "John Creasey",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=2AZADwAAQBAJ&pg=PA8&dq=%22twenty+six+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:26",
@@ -23810,12 +23809,12 @@
   {
    "Time": "11:33",
    "Quote_Time": "thirty three minutes past eleven",
-   "Quote": "... thirty-three minutes past eleven. During a visit home, Saffron had mentioned their dilemma. Stephen offered to collect them but Saffron was insistent. 'Dad, it's miles. It's a Saturday night. It might be late, and you'll have to drive...",
+   "Quote": "... thirty-three minutes past eleven. During a visit home, Saffron had mentioned their dilemma. Stephen offered to collect them but Saffron was insistent.",
    "Title": "Redemption Song",
    "Author": "Laura Wilkinson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=7mDMDwAAQBAJ&pg=PT121&dq=%22thirty+three+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 3
   },
   {
    "Time": "11:33",
@@ -23882,12 +23881,12 @@
   {
    "Time": "11:37",
    "Quote_Time": "thirty seven minutes after eleven",
-   "Quote": "... Thirty - seven minutes after eleven, six minutes after it was recorded.\"\" The location, what form does it take? Lat, long? ”\" Yes.\" The computer beeped, and Peters pointed to the screen with one of his multicolored pens, a...",
+   "Quote": "... Thirty-seven minutes after eleven, six minutes after it was recorded.\" \"The location, what form does it take? Lat, long?” \"Yes.\" The computer beeped, and Peters pointed to the screen with one of his multicolored pens, a...",
    "Title": "White Thaw: The Helheim Conspiracy",
    "Author": "Paul Mark Tag",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=CSh_dXHhyt8C&pg=PA75&dq=%22thirty+seven+minutes+after+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:37",
@@ -23902,12 +23901,12 @@
   {
    "Time": "11:37",
    "Quote_Time": "thirty seven minutes past eleven",
-   "Quote": "... thirty - seven minutes past eleven. “ What is it? ” Lovejoy asked apprehensively. Gunner didn't stop moving, just said,\" Look at the sets who are going to show up at Raines's peace summit today. Look at the names, then count how...",
+   "Quote": "... thirty-seven minutes past eleven. “What is it?” Lovejoy asked apprehensively. Gunner didn't stop moving, just said, \"Look at the sets who are going to show up at Raines's peace summit today. Look at the names, then count how...",
    "Title": "Not Long for This World",
    "Author": "Gar Anthony Haywood",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=y0TYM2rHVd0C&pg=PT180&dq=%22thirty+seven+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:37",
@@ -24256,12 +24255,12 @@
   {
    "Time": "11:43",
    "Quote_Time": "seventeen minutes to twelve",
-   "Quote": "... seventeen minutes to twelve he downed the remainder at a gulp, hurried out, and had to watch his pace on walking back to keep himself from running or almost running.\" Gee, you're back early, Mr. Conn,\" Joyce said.\" Or didn't...",
+   "Quote": "... seventeen minutes to twelve he downed the remainder at a gulp, hurried out, and had to watch his pace on walking back to keep himself from running or almost running. \"Gee, you're back early, Mr. Conn,\" Joyce said. \"Or didn't...",
    "Title": "His Name Was Death",
    "Author": "Fredric Brown",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=oLJGEAAAQBAJ&pg=PT154&dq=%22seventeen+minutes+to+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:43",
@@ -24291,7 +24290,7 @@
    "Author": "Patricia Wentworth",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=bNJWEAAAQBAJ&pg=PT199&dq=%22seventeen+minutes+to+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:43",
@@ -24301,7 +24300,7 @@
    "Author": "René Bazin",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=wSLEDwAAQBAJ&pg=PT197&dq=%22seventeen+minutes+to+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:43",
@@ -24333,7 +24332,7 @@
    "Author": "Riley Redgate",
    "Categories": "Young Adult Fiction",
    "URL": "http://books.google.ca/books?id=hfJEDQAAQBAJ&pg=PT94&dq=%2211:49+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 2
   },
   {
    "Time": "11:49",
@@ -24513,7 +24512,7 @@
    "Author": "Freeman Wills Crofts",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=whABEQAAQBAJ&pg=PT181&dq=%22eleven+minutes+to+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:49",
@@ -24528,12 +24527,12 @@
   {
    "Time": "11:49",
    "Quote_Time": "eleven minutes to twelve",
-   "Quote": "..., sir.” At eleven minutes to twelve, Friday, September 24, 1869, the telegraph announced President Grant would sell Treasury gold until the price had stabilized. The news flowed down the street to the 210 | DONALD MeCAIG.",
+   "Quote": "..., sir.” At eleven minutes to twelve, Friday, September 24, 1869, the telegraph announced President Grant would sell Treasury gold until the price had stabilized.",
    "Title": "Canaan: A Novel",
    "Author": "Donald McCaig",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=aiIoLPEp1LEC&pg=PA270&dq=%22eleven+minutes+to+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 3
   },
   {
    "Time": "11:49",
@@ -24610,12 +24609,12 @@
   {
    "Time": "11:53",
    "Quote_Time": "fifty three minutes past eleven",
-   "Quote": "... fifty- three minutes past eleven, and the date February 23rd. It came, the beginning of the story, with a quick, almost peremptory tapping on the window-pane and then the bottom sash was slowly pushed up. I turned to the desk and took a...",
+   "Quote": "... fifty-three minutes past eleven, and the date February 23rd. It came, the beginning of the story, with a quick, almost peremptory tapping on the window-pane and then the bottom sash was slowly pushed up. I turned to the desk and took a...",
    "Title": "The Clevedon Case",
    "Author": "John Oakley, Nancy Oakley",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=FKycEAAAQBAJ&pg=PT12&dq=%22fifty+three+minutes+past+eleven%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:53",
@@ -24625,7 +24624,7 @@
    "Author": "Gordon Kerr",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=suaYDwAAQBAJ&pg=PT119&dq=%22seven+minutes+to+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:53",
@@ -24670,12 +24669,12 @@
   {
    "Time": "11:53",
    "Quote_Time": "seven minutes to twelve",
-   "Quote": "... had begun to notice him as the man who was doing nothing but running between the bank and the telegraph-office. It was seven minutes to twelve when he got to the bank. 'Is that despatch right?' he said, shoving it through the.",
+   "Quote": "... had begun to notice him as the man who was doing nothing but running between the bank and the telegraph-office. It was seven minutes to twelve when he got to the bank. 'Is that despatch right?' he said, shoving it through the arched aperture.",
    "Title": "A Woman Intervenes",
    "Author": "Robert Barr",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=E72IEAAAQBAJ&pg=PT239&dq=%22seven+minutes+to+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "11:53",
@@ -24695,7 +24694,7 @@
    "Author": "Raymond Archer",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XbqTAAAAQBAJ&pg=PT238&dq=%227+minutes+to+12%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "12:09": [
@@ -24924,12 +24923,12 @@
   {
    "Time": "12:16",
    "Quote_Time": "sixteen minutes after twelve",
-   "Quote": "... sixteen minutes after twelve, and the news had not touched on any events in St. Louis. “ He was ten years older than I, ” Lombard said cheerfully. “ That would have made him about your age, Vince. ” He seemed oblivious to the...",
+   "Quote": "... sixteen minutes after twelve, and the news had not touched on any events in St. Louis. “He was ten years older than I,” Lombard said cheerfully. “That would have made him about your age, Vince.” He seemed oblivious to the...",
    "Title": "The Janus Conspiracy",
    "Author": "Michael Davies",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=EB9yIHkV5scC&pg=PA404&dq=%22sixteen+minutes+after+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:16",
@@ -24939,7 +24938,7 @@
    "Author": "Roman McDougald",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=9n-7DwAAQBAJ&pg=PT252&dq=%22sixteen+minutes+after+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:16",
@@ -25021,7 +25020,7 @@
    "Author": "Frances Lockridge, Richard Lockridge",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=b1lsCwAAQBAJ&pg=PT20&dq=%22eighteen+minutes+after+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:18",
@@ -25056,12 +25055,12 @@
   {
    "Time": "12:18",
    "Quote_Time": "eighteen minutes past twelve",
-   "Quote": "... eighteen minutes past twelve precisely ( as Mr Fitzjohn verified by a glance at his watch ) the fight began. For about a minute both men sparred cautiously, then Cribb made play right and left, and Molyneux returning slightly to the...",
+   "Quote": "... eighteen minutes past twelve precisely (as Mr Fitzjohn verified by a glance at his watch) the fight began. For about a minute both men sparred cautiously, then Cribb made play right and left, and Molyneux returning slightly to the...",
    "Title": "Regency Buck",
    "Author": "Georgette Heyer",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=wKLK9SF-_rwC&pg=PA22&dq=%22eighteen+minutes+past+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:18",
@@ -25138,12 +25137,12 @@
   {
    "Time": "12:19",
    "Quote_Time": "nineteen minutes after twelve",
-   "Quote": "... nineteen minutes after twelve. He turns to Brother Ezar, but Ezar is kneeling at the altar with his back to Mel, and Mel doesn't feel like hanging around until he I finishes his prayer, or whatever it is he's mumbling. It's.",
+   "Quote": "... nineteen minutes after twelve. He turns to Brother Ezar, but Ezar is kneeling at the altar with his back to Mel, and Mel doesn't feel like hanging around until he finishes his prayer, or whatever it is he's mumbling.",
    "Title": "No Sin Unpunished",
    "Author": "John Farris",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=9DH4DwAAQBAJ&pg=PT225&dq=%22nineteen+minutes+after+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 3
   },
   {
    "Time": "12:19",
@@ -25158,7 +25157,7 @@
   {
    "Time": "12:19",
    "Quote_Time": "nineteen minutes past twelve",
-   "Quote": "... nineteen minutes past twelve, growling to a halt before the building. An- other was just behind it; the four uniformed cops tumbled inside. At twenty past noon, there being still ten minutes, her attention was riv- eted upon the...",
+   "Quote": "... nineteen minutes past twelve, growling to a halt before the building. An- other was just behind it; the four uniformed cops tumbled inside. At twenty past noon, there being still ten minutes, her attention was riveted upon the...",
    "Title": "No Secret So Dark, So Deadly",
    "Author": "Bennett M. Lifter",
    "Categories": "Fiction",
@@ -25173,17 +25172,17 @@
    "Author": "Beverly Bird",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=DuhDidm-7AIC&pg=PT146&dq=%22nineteen+minutes+past+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:19",
    "Quote_Time": "nineteen minutes past twelve",
-   "Quote": ".... A nurse hurried by in the corridor. Lena Söderström was drinking her tea. The other two nurses sat bent over a crossword puzzle. The time was nineteen minutes past twelve. Already October, Ylva thought. The middle of fall.",
+   "Quote": "A nurse hurried by in the corridor. Lena Söderström was drinking her tea. The other two nurses sat bent over a crossword puzzle. The time was nineteen minutes past twelve. Already October, Ylva thought. The middle of fall already.",
    "Title": "The Fifth Woman",
    "Author": "Henning Mankell",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=fMzXIgkT2sQC&pg=PT104&dq=%22nineteen+minutes+past+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   }
  ],
  "12:29": [
@@ -25220,12 +25219,12 @@
   {
    "Time": "12:29",
    "Quote_Time": "twenty nine minutes after twelve",
-   "Quote": "... twenty-nine minutes after twelve. At twenty- nine and a half minutes after, Milt remarked to Ben Sittka,\"I'm going to take a trip. Uh? Now don't ask questions. You take charge of the garage until you hear from me. Get somebody to help...",
+   "Quote": "... twenty-nine minutes after twelve. At twenty-nine and a half minutes after, Milt remarked to Ben Sittka, \"I'm going to take a trip. Uh? Now don't ask questions. You take charge of the garage until you hear from me. Get somebody to help...",
    "Title": "Free Air",
    "Author": "Sinclair Lewis",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=M9rCDwAAQBAJ&pg=PT44&dq=%22twenty+nine+minutes+after+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:29",
@@ -25295,7 +25294,7 @@
    "Author": "Anne Weale",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=oNgY6gFfHZoC&pg=PT18&dq=%22twenty+nine+minutes+past+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:29",
@@ -25382,12 +25381,12 @@
   {
    "Time": "12:31",
    "Quote_Time": "12:31pm",
-   "Quote": "... 12:31pm No gym. Grabbing lunch for the office. 6:31pm Not leaving anytime soon. I'm starting on tomorrow's tasks today. 10:31pm Finally home and going straight to bed. I have a missed call from Ray, but I'm too tired to respond. I'm...",
+   "Quote": "12:31pm No gym. Grabbing lunch for the office. 6:31pm Not leaving anytime soon. I'm starting on tomorrow's tasks today. 10:31pm Finally home and going straight to bed. I have a missed call from Ray, but I'm too tired to respond.",
    "Title": "Tuesday at Three",
    "Author": "Gillian Alex",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XpqaDQAAQBAJ&pg=PT194&dq=%2212:31pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "12:31",
@@ -25494,12 +25493,12 @@
   {
    "Time": "12:34",
    "Quote_Time": "thirty four minutes past twelve",
-   "Quote": "... thirty-four minutes past twelve she couldn't see him beyond the fine dark wood door of the boardroom to double check. Gertrude was sitting near a vending machineonone of the orthopaedic chairs ubiquitous throughout the company building...",
+   "Quote": "... thirty-four minutes past twelve she couldn't see him beyond the fine dark wood door of the boardroom to double check. Gertrude was sitting near a vending machine on one of the orthopaedic chairs ubiquitous throughout the company building...",
    "Title": "Yellow Orang-Utan Industries",
    "Author": "Simon Gray",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=igH6DwAAQBAJ&pg=PA78&dq=%22thirty+four+minutes+past+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:34",
@@ -25606,22 +25605,22 @@
   {
    "Time": "12:37",
    "Quote_Time": "twenty-three minutes to one",
-   "Quote": "... twenty - three minutes to one? My friend M. Bouc advanced as an argument in favour of it the loud cry which awoke me from sleep. But if Ratchett had been heavily drugged, he could not have cried out. If he had been capable of crying...",
+   "Quote": "... twenty-three minutes to one? My friend M. Bouc advanced as an argument in favour of it the loud cry which awoke me from sleep. But if Ratchett had been heavily drugged, he could not have cried out. If he had been capable of crying...",
    "Title": "Murder on the Orient Express",
    "Author": "AGATHA CHRISTIE",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=Sff3EAAAQBAJ&pg=PA222&dq=%22twenty-three+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:37",
    "Quote_Time": "twenty-three minutes to one",
-   "Quote": "... twenty - three minutes to one o'clock. There was just time to take off her coat, and to put on lipstick and to glance about the sitting room. She did not look badly, and the room did not look badly either. The five dollars for Room...",
+   "Quote": "... twenty-three minutes to one o'clock. There was just time to take off her coat, and to put on lipstick and to glance about the sitting room. She did not look badly, and the room did not look badly either. The five dollars for Room...",
    "Title": "B.F.'s Daughter",
    "Author": "John P. Marquand",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=_3qrCQAAQBAJ&pg=PT307&dq=%22twenty-three+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:37",
@@ -25653,7 +25652,7 @@
    "Author": "Ricki James",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=sfPLEAAAQBAJ&pg=PT31&dq=%2212:41pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:41",
@@ -25675,7 +25674,7 @@
    "Author": "Brianna Baker, F. Bowman Hastie",
    "Categories": "Young Adult Fiction",
    "URL": "http://books.google.ca/books?id=eicrCQAAQBAJ&pg=PA108&dq=%2212:47+PM%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:47",
@@ -25695,7 +25694,7 @@
    "Author": "Jules Verne",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=_WEVEAAAQBAJ&pg=PT14&dq=%22forty+seven+minutes+after+twelve%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:47",
@@ -25873,11 +25872,11 @@
    "Time": "12:48",
    "Quote_Time": "twelve minutes to one",
    "Quote": "... twelve minutes to one; well, at seventeen minutes to one I had been hard in the meshes of the law. I had been surrounded by policemen, warders, and all sorts of court officials, and yet, here, now, a bare five minutes after, I was...",
-   "Title": "The Secret of the Garden (Action-Adventure Thriller)",
+   "Title": "The Secret of the Garden",
    "Author": "Arthur Gask",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=EhJiEAAAQBAJ&pg=PT11&dq=%22twelve+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:48",
@@ -25897,7 +25896,7 @@
    "Author": "Irving Wallace",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=KdHuCwAAQBAJ&pg=PT568&dq=%22twelve+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:48",
@@ -26009,17 +26008,17 @@
    "Author": "J. C. Snaith",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=YYmEEAAAQBAJ&pg=PT15&dq=%22nine+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:51",
    "Quote_Time": "nine minutes to one",
-   "Quote": "... nine minutes to one, the call to his children at the Vance apartment building. I wasn't far out.\"\" No.\"\" They're acting on his instructions. Well, that's all for Ashbury just now. About the autopsy report on Miss Paxton...",
+   "Quote": "... nine minutes to one, the call to his children at the Vance apartment building. I wasn't far out.\" \"No.\" \"They're acting on his instructions. Well, that's all for Ashbury just now. About the autopsy report on Miss Paxton...",
    "Title": "The Wrong Way Down",
    "Author": "Elizabeth Daly",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=mnuDCwAAQBAJ&pg=PT121&dq=%22nine+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "12:56": [
@@ -26081,7 +26080,7 @@
    "Author": "George Herbert Fosdike Nichols",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=q62KEAAAQBAJ&pg=PT129&dq=%22four+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:56",
@@ -26101,7 +26100,7 @@
    "Author": "Roxana Robinson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=HmobDAAAQBAJ&pg=PT38&dq=%22four+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:56",
@@ -26159,11 +26158,11 @@
    "Time": "12:57",
    "Quote_Time": "three minutes to one",
    "Quote": "... Three minutes to one. What, three minutes to one? That was a jump! Twenty-one minutes since his last glance. He remembered his last glance. He had been on the point of breaking the silence and of saying, “Twenty-four minutes to,” but...",
-   "Title": "Death in Fancy Dress: Fancy Dress Ball",
+   "Title": "Death in Fancy Dress",
    "Author": "J. Jefferson Farjeon",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=w19MEAAAQBAJ&pg=PT102&dq=%22three+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:57",
@@ -26179,11 +26178,11 @@
    "Time": "12:57",
    "Quote_Time": "three minutes to one",
    "Quote": "... three minutes to one. The man in plain clothes whispered one short sentence which made the umpire sullenly bow his head. He pinged a handbell. 'There is an urgent personal message for Comrade Kronsteen,' he announced into the microphone...",
-   "Title": "007 Complete Series - 21 James Bond Novels in One Volume",
+   "Title": "From Russia, with Love",
    "Author": "Ian Fleming",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=adXmEAAAQBAJ&pg=PT905&dq=%22three+minutes+to+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "12:57",
@@ -26206,6 +26205,7 @@
    "SELECT": null
   }
  ],
+ //bookmarkmeh
  "13:07": [
   {
    "Time": "13:07",
