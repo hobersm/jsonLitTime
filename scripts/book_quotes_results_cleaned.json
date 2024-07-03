@@ -26205,7 +26205,6 @@
    "SELECT": null
   }
  ],
- //bookmarkmeh
  "13:07": [
   {
    "Time": "13:07",
@@ -26235,7 +26234,7 @@
    "Author": "Frederik Pohl",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=GXs0AQAAQBAJ&pg=PA65&dq=%22seven+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:07",
@@ -26255,7 +26254,7 @@
    "Author": "Vanessa Miller",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=KMNyJqJDyg8C&pg=PT159&dq=%22seven+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:07",
@@ -26265,7 +26264,7 @@
    "Author": "Dana Brown",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=Sa1aAAAAQBAJ&pg=PT78&dq=%22seven+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 2
   },
   {
    "Time": "13:07",
@@ -26352,12 +26351,12 @@
   {
    "Time": "13:12",
    "Quote_Time": "twelve minutes after one",
-   "Quote": "... twelve minutes after one, anybody who was in the theatre could have killed Bolton.\" She shook her head over the fact. “ It isn't as neat as I'd hoped,\" she said. With the exception of the time before the rehearsal began, when no...",
+   "Quote": "So up to twelve minutes after one, anybody who was in the theatre could have killed Bolton.\" She shook her head over the fact. “It isn't as neat as I'd hoped,\" she said.",
    "Title": "Death on the Aisle",
    "Author": "Frances Lockridge, Richard Lockridge",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=RFdsCwAAQBAJ&pg=PT83&dq=%22twelve+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "13:12",
@@ -26434,12 +26433,12 @@
   {
    "Time": "13:14",
    "Quote_Time": "1:14 PM",
-   "Quote": "... ( 1:14 pm, Saturday ): Deal. I've sent him your number. And thanks. Anya ( 1:14 pm, Saturday ): Yeah... Amelia ( 1:17 pm, Saturday ): And before I forget, watch out for the spark. way I huffed slightly at the mention of magic...",
+   "Quote": "Amelia ( 1:14 pm, Saturday ): Deal. I've sent him your number. And thanks. Anya ( 1:14 pm, Saturday ): Yeah... Amelia ( 1:17 pm, Saturday ): And before I forget, watch out for the spark.",
    "Title": "King's Curse",
    "Author": "Lavanya Bhambure",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=AWmxEAAAQBAJ&pg=PT31&dq=%221:14+PM%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "13:14",
@@ -26566,12 +26565,12 @@
   {
    "Time": "13:19",
    "Quote_Time": "1:19pm",
-   "Quote": "... 1:19PM. Bill said. “That's 6:07 well we better get going Kenny Ray we can't wait that long.” They both had a worried look on their face's as they said there good byes and, made their way down the step's and, looking at the ship one more...",
+   "Quote": "“In 4 Hour's and, 48 Minute's.” They look at the clock it's 1:19PM. Bill said. “That's 6:07 well we better get going Kenny Ray we can't wait that long.”",
    "Title": "Amyl Ion 1",
    "Author": "Carroll Holst",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=jNpBEAAAQBAJ&pg=PT134&dq=%221:19pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "13:19",
@@ -26621,7 +26620,7 @@
    "Author": "Wesley Ellis",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=IvpLp2lfkMsC&pg=PT45&dq=%22nineteen+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:19",
@@ -26733,7 +26732,7 @@
    "Author": "Deon Meyer",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=ROdMRnY4OzMC&pg=PT408&dq=%22twenty+one+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:21",
@@ -26743,7 +26742,7 @@
    "Author": "Timothy C.J. Murphy",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=LqkwnuTgxQAC&pg=PA71&dq=%22twenty+one+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "13:22": [
@@ -26765,7 +26764,7 @@
    "Author": "D. Eukel",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=wRVzAgAAQBAJ&pg=PA139&dq=%221:22pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:22",
@@ -26825,25 +26824,25 @@
    "Author": "Marcel Proust",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=IZqEEAAAQBAJ&pg=PT483&dq=%22twenty+two+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:22",
    "Quote_Time": "twenty two minutes past one",
-   "Quote": "... twenty-two minutes past one. We stopped just after we had passed Burton Salmon. I eased the horse up onto the grass verge under the shade ofsome sort of tree, so it could eat if it wanted to. We needed water forthe horse but I was...",
+   "Quote": "... twenty-two minutes past one. We stopped just after we had passed Burton Salmon. I eased the horse up onto the grass verge under the shade of some sort of tree, so it could eat if it wanted to. We needed water for the horse but I was...",
    "Title": "All About Eva",
    "Author": "Malcolm J. Brooks",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=aI5T713eg24C&pg=PA107&dq=%22twenty+two+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "13:27": [
   {
    "Time": "13:27",
    "Quote_Time": "1:27 PM",
-   "Quote": "... 1:27 PM They set up a few screens around the Quad. Jack and Shitty showed up on one and we made SO MUCH NOISE. Sorry to anyone here! # Samwell2015 Eric Bittle @omgcheckplease Sun, May 17, 2015 | 1:57 PM I'm already thinking of how...",
-   "Title": "Check, Please! Book 1: # Hockey",
+   "Quote": "... 1:27 PM They set up a few screens around the Quad. Jack and Shitty showed up on one and we made SO MUCH NOISE. Sorry to anyone here! # Samwell2015",
+   "Title": "Check, Please!",
    "Author": "Ngozi Ukazu",
    "Categories": "Young Adult Fiction",
    "URL": "http://books.google.ca/books?id=kGhqDwAAQBAJ&pg=RA1-PA17&dq=%221:27+PM%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
@@ -26862,12 +26861,12 @@
   {
    "Time": "13:27",
    "Quote_Time": "1:27pm",
-   "Quote": "... 1:27pm Urgent you ring me asap! 1:30pm Tried u again. Why you not answering? Your diary says you are free 1:40pm Left office. HR suspects. Need to speak. Ring please. Not good. Natalie called Gribbin, and he instantly picked up. 'Jesus...",
+   "Quote": "1:27pm Urgent you ring me asap! 1:30pm Tried u again. Why you not answering? Your diary says you are free 1:40pm Left office. HR suspects. Need to speak. Ring please. Not good. Natalie called Gribbin, and he instantly picked up.",
    "Title": "Putney Ferret",
    "Author": "Freddie Hodgson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=KaUG_k-KNJ8C&pg=PA284&dq=%221:27pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "13:27",
@@ -27049,7 +27048,7 @@
    "Author": "Patricia Cornwell",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=xQFdRH1KXZMC&pg=PT84&dq=%22twenty+eight+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:28",
@@ -27059,7 +27058,7 @@
    "Author": "Ken Hughes",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=wsQIEQAAQBAJ&pg=PT288&dq=%22twenty+eight+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:28",
@@ -27121,7 +27120,7 @@
    "Author": "Michael R. Shoulders",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=PQW6pl3bamQC&pg=PA11&dq=%22twenty+nine+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:29",
@@ -27141,7 +27140,7 @@
    "Author": "Don Donaldson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=H51iBAAAQBAJ&pg=PT115&dq=%22twenty+nine+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:29",
@@ -27176,12 +27175,12 @@
   {
    "Time": "13:29",
    "Quote_Time": "twenty nine minutes past one",
-   "Quote": "... Twenty - nine minutes past one.\"\" Dinner,\" said Dorothea. For dinner, they finished the beef roll and ate the last of the apple pie, washing it down with lemonade from the pirates ' grog - puncheon which Nancy and Peggy had set...",
+   "Quote": "... Twenty-nine minutes past one.\" \"Dinner,\" said Dorothea. For dinner, they finished the beef roll and ate the last of the apple pie, washing it down with lemonade from the pirates ' grog - puncheon which Nancy and Peggy had set...",
    "Title": "The Picts and the Martyrs",
    "Author": "Arthur Ransome",
    "Categories": "Juvenile Fiction",
    "URL": "http://books.google.ca/books?id=d3eA2eO5GT0C&pg=PA90&dq=%22twenty+nine+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:29",
@@ -27270,12 +27269,12 @@
   {
    "Time": "13:36",
    "Quote_Time": "1:36pm",
-   "Quote": "... 1:36pm John just sent a text. They are on the way up. 1:41pm We can hear John and Cindy in the hallway. He's telling her that his phone is buzzing so he wants her to unlock the door. The key turns and when the door opens we all yell...",
+   "Quote": "1:36pm John just sent a text. They are on the way up. 1:41pm We can hear John and Cindy in the hallway. He's telling her that his phone is buzzing so he wants her to unlock the door. The key turns and when the door opens we all yell \"Surprise.\"",
    "Title": "Tuesday at Three",
    "Author": "Gillian Alex",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XpqaDQAAQBAJ&pg=PT180&dq=%221:36pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "13:36",
@@ -27447,7 +27446,7 @@
    "Author": "Judith Leon",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=qkwlAKzWz2UC&pg=PA158&dq=%22thirty+eight+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:38",
@@ -27499,7 +27498,7 @@
    "Author": "Nicholas Monsarrat",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=4LCXDQAAQBAJ&pg=PT495&dq=%22forty+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:40",
@@ -27509,7 +27508,7 @@
    "Author": "Masud Ahmed",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=7I9RAgAAQBAJ&pg=PA51&dq=%22forty+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:40",
@@ -27576,12 +27575,12 @@
   {
    "Time": "13:41",
    "Quote_Time": "1:41pm",
-   "Quote": "... 1:41pm We can hear John and Cindy in the hallway. He's telling her that his phone is buzzing so he wants her to unlock the door. The key turns and when the door opens we all yell “Surprise.” 1:44pm Cindy is still standing at the door...",
+   "Quote": "1:41pm We can hear John and Cindy in the hallway. He's telling her that his phone is buzzing so he wants her to unlock the door. The key turns and when the door opens we all yell “Surprise.” 1:44pm Cindy is still standing at the door. She's crying. I'm crying. Ava is crying. Madelyn is crying. Liv is crying. Paige is crying.",
    "Title": "Tuesday at Three",
    "Author": "Gillian Alex",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XpqaDQAAQBAJ&pg=PT180&dq=%221:41pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "13:41",
@@ -27783,7 +27782,7 @@
    "Author": "Sian O'Gorman",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=DG72DwAAQBAJ&pg=PT54&dq=%22seventeen+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:43",
@@ -27793,7 +27792,7 @@
    "Author": "Alan Titchmarsh",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=1B0YAwAAQBAJ&pg=PT135&dq=%22seventeen+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:43",
@@ -27803,7 +27802,7 @@
    "Author": "Jef Geeraerts",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=zly7QxC53rkC&pg=PA259&dq=%22seventeen+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 2
   },
   {
    "Time": "13:43",
@@ -27875,7 +27874,7 @@
    "Author": "Don Marquis",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=bAF2EAAAQBAJ&pg=PT132&dq=%22fourteen+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:46",
@@ -27967,17 +27966,17 @@
    "Author": "Kimberley Jordan Reeman",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=VEVyDwAAQBAJ&pg=PT770&dq=%22nine+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:51",
    "Quote_Time": "nine minutes to two",
-   "Quote": "... nine minutes to two the other vehicle arrived. At first Milla didn't believe her eyes: that shape, those markings. She shifted forwards, stared intently. An ambulance. It had stopped in front of the gate. Someone emerged from...",
+   "Quote": "At nine minutes to two the other vehicle arrived. At first Milla didn't believe her eyes: that shape, those markings. She shifted forwards, stared intently. An ambulance. It had stopped in front of the gate.",
    "Title": "Trackers",
    "Author": "Deon Meyer",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=pSfwHG_UatkC&pg=PA336&dq=%22nine+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "13:51",
@@ -28069,7 +28068,7 @@
    "Author": "C.W. Grafton",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=-drKDwAAQBAJ&pg=PT155&dq=%22eight+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:52",
@@ -28211,7 +28210,7 @@
    "Author": "Gillian Galbraith",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=cMa8BQAAQBAJ&pg=PT187&dq=%22seven+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:53",
@@ -28221,7 +28220,7 @@
    "Author": "Ray Vernon",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=vBGODgAAQBAJ&pg=PT30&dq=%22seven+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "13:53",
@@ -28264,6 +28263,7 @@
    "SELECT": null
   }
  ],
+ //bookmarkmeh
  "14:03": [
   {
    "Time": "14:03",
