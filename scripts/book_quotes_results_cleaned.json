@@ -31655,7 +31655,6 @@
    "SELECT": null
   }
  ],
- //bookmarkmeh
  "15:02": [
   {
    "Time": "15:02",
@@ -31720,12 +31719,12 @@
   {
    "Time": "15:02",
    "Quote_Time": "two minutes after three",
-   "Quote": "... two minutes after three last night or two minutes after three this afternoon. Either way, it mirrored.",
-   "Title": "A Cat Dupree Complete Collection",
+   "Quote": "The pendulum had stopped when the clock had run down, which, according to the time, was either two minutes after three last night or two minutes after three this afternoon. Either way, it mirrored Wilson's life. He'd lost all sense of time, along with his sense of wellbeing.",
+   "Title": "Cat Dupree",
    "Author": "Sharon Sala",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=W0hCDwAAQBAJ&pg=PT588&dq=%22two+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:02",
@@ -31827,7 +31826,7 @@
    "Author": "Paul Jenkins",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=VDuKCwAAQBAJ&pg=PA21&dq=%22six+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:06",
@@ -31847,7 +31846,7 @@
    "Author": "Debbie S. TenBrink",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=BEiCDwAAQBAJ&pg=PA336&dq=%22six+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:06",
@@ -31944,12 +31943,12 @@
   {
    "Time": "15:11",
    "Quote_Time": "eleven minutes after three",
-   "Quote": "... eleven minutes after three in the afternoon. They were now approaching the railroad viaduct near Staplehurst, although “viaduct”—the name given the structure in the official railways guide—may be too fancy a word for the web of girders...",
+   "Quote": "The engineer was going full speed—about fifty miles per hour—as they passed Headcorn at eleven minutes after three in the afternoon.",
    "Title": "Drood",
    "Author": "Dan Simmons",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=DHYlQcmC9JkC&pg=PT12&dq=%22eleven+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:11",
@@ -32051,7 +32050,7 @@
    "Author": "Robert Crais",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=3ic0AgAAQBAJ&pg=PT213&dq=%22twelve+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:12",
@@ -32071,7 +32070,7 @@
    "Author": "Gayle Wilson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XpgkXv8bdM0C&pg=PT17&dq=%22twelve+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:12",
@@ -32096,12 +32095,12 @@
   {
    "Time": "15:12",
    "Quote_Time": "twelve minutes after three",
-   "Quote": "... Twelve minutes after three p.m. Monday, the twelfth of September, in the year of our Lord, 1813,” he said. “You are all witnesses of the time the ball was opened?” “We are.” “Good-by, Bob.” “Oh, let's go with him a way!” “Might be...",
-   "Title": "Nothing but the truth",
+   "Quote": "Twelve minutes after three p.m. Monday, the twelfth of September, in the year of our Lord, 1813,” he said. “You are all witnesses of the time the ball was opened?” “We are.” “Good-by, Bob.”",
+   "Title": "Nothing But The Truth",
    "Author": "Frederic S.Isham",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=zBlMDwAAQBAJ&pg=PT8&dq=%22twelve+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:12",
@@ -32173,7 +32172,7 @@
    "Author": "Jack McDevitt",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=KDIxgTR0Lx8C&pg=PT133&dq=%22seventeen+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:17",
@@ -32203,17 +32202,17 @@
    "Author": "Laran Mithras",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=7mNADwAAQBAJ&pg=PA11&dq=%22seventeen+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:17",
    "Quote_Time": "seventeen minutes after three",
-   "Quote": "... ball in left field at seventeen minutes after three in the afternoon. Fans stormed the field, violating the lines that should have divided the playing field from the stands. They gouged the very earth as 167 LOVE SONG.",
+   "Quote": "Jay looked on in horror when the last out was squeeezed out of the ball by Cleon Jones catching Davey Johnson's fly ball in left field at seventeen minutes after three in the afternoon. Fans stormed the field, violating the lines that should have divided the playing field from the stands.",
    "Title": "Love Song",
    "Author": "Richard Haffey",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=utsmMJcdZXcC&pg=PA167&dq=%22seventeen+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:17",
@@ -32300,12 +32299,12 @@
   {
    "Time": "15:18",
    "Quote_Time": "eighteen minutes after three",
-   "Quote": "... eighteen minutes after three when I made it up to the president's building - wide office on the thirty - seventh floor. They'd made a lot of progress in eighteen minutes - ties were loosened, ashtrays full. Theoretically, this was a...",
+   "Quote": "... eighteen minutes after three when I made it up to the president's building-wide office on the thirty-seventh floor. They'd made a lot of progress in eighteen minutes - ties were loosened, ashtrays full. Theoretically, this was a...",
    "Title": "Killed in the Act",
    "Author": "William L. DeAndrea",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=zTZX_CAmgS0C&pg=PT111&dq=%22eighteen+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:18",
@@ -32315,7 +32314,7 @@
    "Author": "Lars Kepler",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=f-g6EAAAQBAJ&pg=PT86&dq=%22eighteen+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:18",
@@ -32325,7 +32324,7 @@
    "Author": "Judy Powell",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=iyRLEAAAQBAJ&pg=PT220&dq=%22eighteen+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:18",
@@ -32542,12 +32541,12 @@
   {
    "Time": "15:19",
    "Quote_Time": "nineteen minutes past three",
-   "Quote": "... nineteen minutes past three. Mel interrupted. “What a stupid time for a race.” Christina ignored her, once again revelling as 'ringmaster'. “He says the fastest three in each semi and the two fastest losers go into the final. What does...",
+   "Quote": "“And there's a text, all the timings. Everything's already started but Sam's race is at nineteen minutes past three.” Mel interrupted. “What a stupid time for a race.” Christina ignored her, once again revelling as 'ringmaster'.",
    "Title": "Aiming High",
    "Author": "Will McGeorge",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=HEq4DQAAQBAJ&pg=PT154&dq=%22nineteen+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   }
  ],
  "15:21": [
@@ -32584,12 +32583,12 @@
   {
    "Time": "15:21",
    "Quote_Time": "3:21pm",
-   "Quote": "Amy Teegan. 3:21pm Kristy “AREN'T the guys supposed to be here?” Marta asks. “Yep.” Kristy checks the time. “Have you ever known a wedding to run on time?” They wait in silence a moment before Marta speaks again. “Lindsay... 3:21pm Kristy.",
+   "Quote": "3:21pm Kristy “AREN'T the guys supposed to be here?” Marta asks. “Yep.” Kristy checks the time. “Have you ever known a wedding to run on time?”",
    "Title": "No Day Like Today",
    "Author": "Amy Teegan",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=zm5jEAAAQBAJ&pg=PT78&dq=%223:21pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:21",
@@ -32629,7 +32628,7 @@
    "Author": "Victor Hugo",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=g8ujEAAAQBAJ&pg=PT86&dq=%22twenty+one+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:21",
@@ -32711,7 +32710,7 @@
    "Author": "Daphne Rose Kingma",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=Oy91EAAAQBAJ&pg=PT142&dq=%22twenty+two+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:22",
@@ -32746,12 +32745,12 @@
   {
    "Time": "15:22",
    "Quote_Time": "twenty two minutes past three",
-   "Quote": "... it. Harbin studied his wristwatch. It was now twenty-two minutes past three. “What's wrong with this place?” he asked. “It looks clean.” “The barbers look stupid.” “Let's spend the day hunting for intelligent-looking barbers.” It was.",
+   "Quote": "Harbin studied his wristwatch. It was now twenty-two minutes past three. “What's wrong with this place?” he asked. “It looks clean.” “The barbers look stupid.” “Let's spend the day hunting for intelligent-looking barbers.”",
    "Title": "The Burglar",
    "Author": "David Goodis",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=OV3KBwAAQBAJ&pg=PT78&dq=%22twenty+two+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:22",
@@ -32848,12 +32847,12 @@
   {
    "Time": "15:24",
    "Quote_Time": "twenty four minutes after three",
-   "Quote": "... twenty-four minutes after three in the afternoon. Tabowei went to her side and whispered that he would come to take her home in the evening as always. He had regularly assured her that when he began to earn money, she would stop begging...",
+   "Quote": "It was twenty-four minutes after three in the afternoon. Tabowei went to her side and whispered that he would come to take her home in the evening as always. He had regularly assured her that when he began to earn money, she would stop begging for a living.",
    "Title": "Mugu",
    "Author": "Valentine Cyndy Egbejimba",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=EI1wVmrnLC4C&pg=PA76&dq=%22twenty+four+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:24",
@@ -32955,7 +32954,7 @@
    "Author": "Steph Daniels",
    "Categories": "Juvenile Fiction",
    "URL": "http://books.google.ca/books?id=1nyeuOPkjFsC&pg=PA509&dq=%22twenty+six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:26",
@@ -32985,7 +32984,7 @@
    "Author": "Dennis Wheatley",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=2gZpBAAAQBAJ&pg=PT121&dq=%22twenty+six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "15:28": [
@@ -33032,12 +33031,12 @@
   {
    "Time": "15:28",
    "Quote_Time": "3:28pm",
-   "Quote": "... 3:28pm ME: Not acceptable Not gonna keep bitching about the same things over and over. Tub included. I don't wanna see nar another hair left in tub again. Stop making me feel like I gotta bitch about the same thing every other day...",
+   "Quote": "May 18 Wednesday 3:28pm ME: Not acceptable. Not gonna keep bitching about the same things over and over. Tub included. I don't wanna see nar another hair left in tub again.",
    "Title": "ROOMMATES FROM HELL",
    "Author": "Ricki James",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=sfPLEAAAQBAJ&pg=PT30&dq=%223:28pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:28",
@@ -33072,12 +33071,12 @@
   {
    "Time": "15:28",
    "Quote_Time": "twenty eight minutes past three",
-   "Quote": "Mary Jane Staples. Chapter Twelve It was twenty - eight minutes past three in the after- noon, and the bank in the Walworth Road was about to close its door to customers. The last one had just left. The last, that is, except for two...",
+   "Quote": "It was twenty-eight minutes past three in the afternoon, and the bank in the Walworth Road was about to close its door to customers. The last one had just left.",
    "Title": "The Camberwell Raid",
    "Author": "Mary Jane Staples",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=fQxT-fsu7zEC&pg=PA194&dq=%22twenty+eight+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:28",
@@ -33114,12 +33113,12 @@
   {
    "Time": "15:31",
    "Quote_Time": "3:31 PM",
-   "Quote": "Parker Swift. FRIDAY, 3:31 pm Do I need to call Hannah and tell her about the underwear rule? FRIDAY, 3:31 pm I think underwear rule is suspended at any event where actual royalty will be making an appearance. FRIDAY, 3:32 pm I'm afraid...",
-   "Title": "Royal Scandal Box Set",
+   "Quote": "FRIDAY, 3:31 pm Do I need to call Hannah and tell her about the underwear rule? FRIDAY, 3:31 pm I think underwear rule is suspended at any event where actual royalty will be making an appearance.",
+   "Title": "Royal Affair",
    "Author": "Parker Swift",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=iwpHDwAAQBAJ&pg=PT703&dq=%223:31+PM%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:31",
@@ -33266,12 +33265,12 @@
   {
    "Time": "15:34",
    "Quote_Time": "twenty-six minutes to four",
-   "Quote": "... ' 'Hmmm.' Then: 'Wonder what the time is'. She had a wristwatch on, but didn't seem able to look at it. 'I'd say... twenty-six minutes to four. Give or take a couple.' She dragged her arm up and checked. 'My God. How.",
+   "Quote": "'Hmmm.' Then: 'Wonder what the time is'. She had a wristwatch on, but didn't seem able to look at it. 'I'd say... twenty-six minutes to four. Give or take a couple.' She dragged her arm up and checked. 'My God. How did you know that?'",
    "Title": "No Way Back",
    "Author": "JR Carroll",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=MipEAgAAQBAJ&pg=PT128&dq=%22twenty-six+minutes+to+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:34",
@@ -33353,7 +33352,7 @@
    "Author": "John Verdon",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=z-AREAAAQBAJ&pg=PT190&dq=%22thirty+six+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:36",
@@ -33515,7 +33514,7 @@
    "Author": "Atreyo Chowdhury",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=M1PvEAAAQBAJ&pg=PT38&dq=%22thirty+eight+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:38",
@@ -33525,7 +33524,7 @@
    "Author": "Vicki Delany",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=d6VaDwAAQBAJ&pg=PT180&dq=%22twenty-two+minutes+to+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:38",
@@ -33607,7 +33606,7 @@
    "Author": "Rebecca Hagan Lee",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=0Lg7DwAAQBAJ&pg=PT17&dq=%22forty+three+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:43",
@@ -33647,7 +33646,7 @@
    "Author": "JR Alexander",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=GhhkEAAAQBAJ&pg=PT209&dq=%22seventeen+minutes+to+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:43",
@@ -33714,12 +33713,12 @@
   {
    "Time": "15:46",
    "Quote_Time": "forty six minutes past three",
-   "Quote": "... forty- six minutes past three, I give you permission to leave this room. Not one minute sooner than forty - six minutes past three. ' 11\" But they will force an entrance,\" suggested Mon. Detinan.\" You forget the law, my dear...",
+   "Quote": "'Monsieur Gerbois, it is now forty-two minutes past three. At forty-six minutes past three, I give you permission to leave this room. Not one minute sooner than forty-six minutes past three.'",
    "Title": "The Adventures of Arsène Lupin",
    "Author": "Maurice Leblanc",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XRjmEAAAQBAJ&pg=PT190&dq=%22forty+six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:46",
@@ -33881,17 +33880,17 @@
    "Author": "Dan Vining",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=I7Zfs9EKNUkC&pg=PT206&dq=%22forty+seven+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "15:47",
    "Quote_Time": "forty seven minutes after three",
-   "Quote": "... forty - seven minutes after three in a bright blue Aston - Martin, carrying a textbook entitled Nouvelles Causeries en France and a sheaf of flash - cards on which were printed drawings of bears, kites, apples, penknives, shoes...",
+   "Quote": "He arrived the following afternoon at forty-seven minutes after three in a bright blue Aston-Martin, carrying a textbook entitled Nouvelles Causeries en France and a sheaf of flash-cards on which were printed drawings of bears, kites, apples, penknives, shoes, and loaves of bread.",
    "Title": "A Sea Change",
    "Author": "J. R. Salamanca",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=QOKZM3CA2wQC&pg=PT236&dq=%22forty+seven+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:47",
@@ -33978,12 +33977,12 @@
   {
    "Time": "15:48",
    "Quote_Time": "3:48pm",
-   "Quote": "Pea Jung. December 24th 2014. 3:48pm “Christmas is right around the corner.” My brother Hannes' teasing tone is unmistakable, even over the phone. How nice of him to announce the news so cheerfully! “Yes,” I mumble through my... 3:48pm...",
-   "Title": "Xmas Wars - Crazy about Han",
+   "Quote": "December 24th 2014. 3:48pm “Christmas is right around the corner.” My brother Hannes' teasing tone is unmistakable, even over the phone.",
+   "Title": "Xmas Wars - Crazy About Han",
    "Author": "Pea Jung",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=2lLYDAAAQBAJ&pg=PT2&dq=%223:48pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "15:48",
@@ -34100,12 +34099,12 @@
   {
    "Time": "15:52",
    "Quote_Time": "eight minutes to four",
-   "Quote": "R.J. Ellory. TWENTYSIX. Eight minutes to four Lorentzen returned. He clutchedahandfulof papers. On his face he wore an expression of quiet determination. 'I have moved mountains,' he said as he sat down once more. He set the sheaf of...",
+   "Quote": "Eight minutes to four Lorentzen returned. He clutched a handful of papers. On his face he wore an expression of quiet determination. 'I have moved mountains,' he said as he sat down once more.",
    "Title": "A Simple Act of Violence",
    "Author": "R.J. Ellory",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=tEo4AgAAQBAJ&pg=PT246&dq=%22eight+minutes+to+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   }
  ],
  "16:27": [
@@ -34122,12 +34121,12 @@
   {
    "Time": "16:27",
    "Quote_Time": "4:27 PM",
-   "Quote": "... [4:27 PM]Meet me at EuroChow. I'd already made reservations. Jessica [4:27 PM]You're driving a hard bargain. A date is on the printout. That was eight months ago. That's how it began for my husband and Jessica. Eight months ago. Damn...",
+   "Quote": "Charles [4:27 PM]Meet me at EuroChow. I'd already made reservations. Jessica [4:27 PM]You're driving a hard bargain.    A date is on the printout. That was eight months ago. That's how it began for my husband and Jessica. Eight months ago.",
    "Title": "The Other Woman",
    "Author": "Eric Jerome Dickey",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=tGZWx4ytF1YC&pg=PT95&dq=%224:27+PM%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "16:27",
@@ -34254,12 +34253,12 @@
   {
    "Time": "16:36",
    "Quote_Time": "4:36pm",
-   "Quote": "... 4:36PM {! Vica Morozova 4:36PM o You're the best Sergey winced at Vica's stupid emoji and checked the time before putting the phone back into the pocket of his jeans. He still had about four hours before he had to head to Williamsburg...",
+   "Quote": "Vica Morozova 4:36PM - 'You're the best' Sergey winced at Vica's stupid emoji and checked the time before putting the phone back into the pocket of his jeans.",
    "Title": "Still Here",
    "Author": "Lara Vapnyar",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=KhnjCgAAQBAJ&pg=PA290&dq=%224:36pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "16:36",
@@ -34396,12 +34395,12 @@
   {
    "Time": "16:38",
    "Quote_Time": "4:38 PM",
-   "Quote": "... [4:38 PM] don't get careless Jessica [4:38 PM]he doesn't get back from Canada until Thursday Charles [4:38 PM] That's no excuse. Don't get careless Jessie Jessica [4:38 PM]Call me right now. Charles [4:38 PM] told you I'm not alone yet...",
+   "Quote": "Charles [4:38 PM] 'don't get careless' Jessica [4:38 PM] 'he doesn't get back from Canada until Thursday' Charles [4:38 PM] 'That's no excuse. Don't get careless Jessie'",
    "Title": "The Other Woman",
    "Author": "Eric Jerome Dickey",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=tGZWx4ytF1YC&pg=PT116&dq=%224:38+PM%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "16:38",
@@ -34563,7 +34562,7 @@
    "Author": "Melissa James",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=2AgrEokU2a4C&pg=PT67&dq=%22nineteen+minutes+to+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "16:41",
@@ -34695,7 +34694,7 @@
    "Author": "Deon Meyer",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=pD5VEAAAQBAJ&pg=PT164&dq=%22sixteen+minutes+to+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   },
   {
    "Time": "16:44",
@@ -34741,11 +34740,11 @@
    "Time": "16:44",
    "Quote_Time": "sixteen minutes to five",
    "Quote": "... sixteen minutes to five now. If this train didn't start moving right this second, she wouldn't make it. Incessantly, she kept trying Gabe's phone—both of them—but of course he didn't pick up. She looked around the train and outside of...",
-   "Title": "The Cuckoo Series - Books 1-3",
+   "Title": "The Cuckoo Series",
    "Author": "Julia Derek",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=SQ4jEAAAQBAJ&pg=PT410&dq=%22sixteen+minutes+to+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 1
   }
  ],
  "17:07": [
@@ -34792,12 +34791,12 @@
   {
    "Time": "17:07",
    "Quote_Time": "5:07pm",
-   "Quote": "..., what do you need me to do? 5:05PM< Do U think Tangie still has the image she & I took on our 1st date? 5:07PM> I know she does. It's here in the box with all your other pictures. 5:09PM< Cool, can I swing by and get it 2morrow?",
+   "Quote": "5:05PM< Do U think Tangie still has the image she & I took on our 1st date? 5:07PM> I know she does. It's here in the box with all your other pictures. 5:09PM< Cool, can I swing by and get it 2morrow?",
    "Title": "Love Unwanted",
    "Author": "Myesha S. Morris",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=gM1DEAAAQBAJ&pg=PT223&dq=%225:07pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
-   "SELECT": null
+   "SELECT": 4
   },
   {
    "Time": "17:07",
@@ -34880,6 +34879,7 @@
    "SELECT": null
   }
  ],
+ //bookmarkmeh
  "17:08": [
   {
    "Time": "17:08",
