@@ -102,7 +102,7 @@ with open(file_path, 'r', encoding='utf-8') as file:
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 options.add_argument('--disable-gpu')
-options.add_argument('--window-size=1920x2500') # Set a larger height for the window to capture more content vertically
+options.add_argument('--window-size=1920x5000') # Set a larger height for the window to capture more content vertically
 chrome_driver_path = r'C:\Users\Mat_H\OneDrive\Documents\Chrome\chromedriver-win64\chromedriver-win64\chromedriver.exe'
 cService = webdriver.ChromeService(executable_path=chrome_driver_path)
 driver = webdriver.Chrome(service=cService, options=options)
@@ -110,7 +110,9 @@ driver = webdriver.Chrome(service=cService, options=options)
 # List of possible XPaths
 xpaths = [
     '/html/body/div[8]/div[2]/div/div[3]/div/div[1]/div/div/div[1]/div[2]/div/div[8]/div',
-    '/html/body/div[9]/div[2]/div/div[3]/div/div[1]/div/div/div[1]/div[2]/div/div[8]/div'
+    '/html/body/div[9]/div[2]/div/div[3]/div/div[1]/div/div/div[1]/div[2]/div/div[8]/div',
+    '/html/body/div[7]/div[2]/div/div[3]/div/div[1]/div/div/div[1]/div[2]/div/div[8]/div',
+    '/html/body/div[10]/div[2]/div/div[3]/div/div[1]/div/div/div[1]/div[2]/div/div[8]/div',
 ]
 
 # Iterate through the entries and process those with SELECT == 1
@@ -150,7 +152,7 @@ for time_key, entries in tqdm(data.items(), desc='Processing entries', unit='tim
                         size = element.size
                         screenshot = driver.get_screenshot_as_png()
                         im = Image.open(BytesIO(screenshot))
-                        im = im.crop((location['x'], location['y'], location['x'] + size['width'], location['y'] + size['height']))
+                        im = im.crop((location['x'], location['y'], location['x'] + size['width'], location['y'] + int(size['height']*1.5)))
                         element_found = True
                         break
                     except NoSuchElementException:

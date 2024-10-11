@@ -1,7 +1,6 @@
 
 scripts/book_quotes_results.json
 scripts/internetArchive_API_test.py
-scripts/results/book_quotes_results_extended.json
 scripts/search_queries.json
 *.png
 *.txt
@@ -9,3 +8,4 @@ scripts/results/old/book_quotes_results_extended_old.json
 scripts/results/old/book_quotes_results_extended_first.json
 scripts/results/book_quotes_results_extended_1am_Complete.json
 scripts/book_quotes_results_cleaned_old.json
+scripts/results/book_quotes_results_extended_useable.json
