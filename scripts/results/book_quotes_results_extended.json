@@ -1067,19 +1067,18 @@
    "USE": 1
   }
  ],
- //bookmarkmeh
  "02:42": [
   {
    "Time": "02:42",
-   "Quote_Time": "forty two minutes past two",
+   "Quote_Time": "forty-two minutes past two",
    "Quote": "... forty-two minutes past two it was over, and the Master had lost.\"\" Saito smiled up from the board as though the old dead master had just died again, under his hands. Ito entered the room and went in to dinner. Aoki followed...",
    "Title": "Rendezvous at Kamakura Inn",
    "Author": "Marshall Browne",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=RLr7HiZ2KNIC&pg=PA160&dq=%22forty+two+minutes+past+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "forty-two minutes past two it was over, and the Master had lost.\"\" Saito smiled up from the board as though the old dead master had just died again, under his hands. Ito entered the room and went in to dinner. Aoki followed",
-   "USE": null
+   "Quote_Long": "The last play was Black 237. At forty-two minutes past two it was over, and the Master had lost.",
+   "USE": 1
   },
   {
    "Time": "02:42",
@@ -1104,8 +1103,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=88GiCgAAQBAJ&pg=PT165&dq=%22sixteen+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "A age clock in a window two up from the milliner’s was showing sixteen minutes to three when I turned round and saw Bruno no more than fifty yards away from me. As we expected, he'd come in from the Piccadilly end and was almost at the door of the shoemaker's. He was our man, no doubt about it. D’Orsay’s sketch had been quite a good likeness - a neat man with dark glossy hair showing under his hat, a pale oval-shaped face with dark eyes and a quick, neat way of moving, the cut on his cheek healing to a slim pink scar.",
-   "USE": null
+   "Quote_Long": "A carriage clock in a window two up from the milliner's was showing sixteen minutes to three when I turned round and saw Bruno no more than fifty yards away from me.",
+   "USE": 1
   }
  ],
  "02:48": [
@@ -1113,13 +1112,13 @@
    "Time": "02:48",
    "Quote_Time": "2:48am",
    "Quote": "... 2:48am. I tried rolling over and going back to sleep, picturing myself sleeping and calm memories to aid my attempt. That definitely wasn't working. My eyes were so tired and my body was exhausted, but my mind was completely awake. I...",
-   "Title": "The Elements Series",
+   "Title": "The Elements Series: Spirited Vigilante",
    "Author": "Ryan D Pearson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=E5OtgmKjQ4AC&pg=PA109&dq=%222:48am%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Slowly I looked to my alarm and the red-illuminated numbers informed me it was 2:48am. I tried rolling over and going back to sleep, picturing myself sleeping and calm memories to aid my attempt. That definitely wasn't working. My eyes were so tired and my body was exhausted, but my mind was completely awake. I had dreamt of Renae’s vision again and the fear of not being able to help my team-mates was becoming too much.",
-   "USE": null
+   "Quote_Long": "Slowly I looked to my alarm and the red-illuminated numbers informed me it was 2:48am. I tried rolling over and going back to sleep, picturing myself sleeping and calm memories to aid my attempt. That definitely wasn't working.",
+   "USE": 1
   },
   {
    "Time": "02:48",
@@ -1144,23 +1143,23 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=4ymlBAAAQBAJ&pg=PT10&dq=%22eleven+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "At eleven minutes to three, the F rumbled in, and he was delighted. Lucky night...Between midnight and five, a train arrived maybe once an hour. Positioning himself near the middle of the platform, Raymond relished this small blessing as the train pulled to a stop, glistening wet from two outdoor stations—Smith and Ninth, then Fourth Avenue.",
-   "USE": null
+   "Quote_Long": "At eleven minutes to three, the F rumbled in, and he was delighted. Lucky night...Between midnight and five, a train arrived maybe once an hour.",
+   "USE": 1
   }
  ],
  "02:51": [],
  "02:52": [
   {
    "Time": "02:52",
-   "Quote_Time": "eight minutes to three",
+   "Quote_Time": "Eight minutes to three",
    "Quote": "... the flash on the slim solid - gold watch, eyeing the slow progress of the sweep hand.\" Eight minutes to three,\" he said.\" Exactly eight minutes to go.\"",
    "Title": "The Faster She Runs",
    "Author": "Robert Colby",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=dnxfDwAAQBAJ&pg=PA45&dq=%22eight+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "After a moment he brought the glasses down and turned the flash on the slim solid - gold watch, eyeing the slow progress of the sweep hand.\" Eight minutes to three,\" he said.\" Exactly eight minutes to go.\"",
-   "USE": null
+   "Quote_Long": "After a moment he brought the glasses down and turned the flash on the slim solid-gold watch, eyeing the slow progress of the sweep hand. \"Eight minutes to three,\" he said. \"Exactly eight minutes to go.\"",
+   "USE": 1
   }
  ],
  "02:53": [
@@ -1173,8 +1172,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=2ZOXBQAAQBAJ&pg=PT73&dq=%222:53am%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "MB: 19/; 1: 175; 5e: 3,6,9: 150; 6e: 16: 200 This one sent on December 19th at 2:53am. Enzo frowned. These were not recipes for horsemeat. He opened several in quick succession, all filled with the same mysterious code. He had no idea what the letters indicated. PV, D, L, MB, but another thought was beginning to",
-   "USE": null
+   "Quote_Long": "This one sent on December 19th at 2:53am. Enzo frowned. These were not recipes for horsemeat. He opened several in quick succession, all filled with the same mysterious code. He had no idea what the letters indicated. PV, D, L, MB, but another thought was beginning to coagulate in the stream of information uploading to his brain.",
+   "USE": 1
   },
   {
    "Time": "02:53",
@@ -1209,8 +1208,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=seA5AgAAQBAJ&pg=PT105&dq=%22seven+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "The bus from Deep End, coming in by the new by-pass, dre up in front of the station at seven minutes to three – an advance on the scheduled time which enabled the driver and conductor to adjourn for refreshment to an adjacent snackbar. Miss Silver alighted. At precisely the same moment a man came out of the station. He",
-   "USE": null
+   "Quote_Long": "The bus from Deep End, coming in by the new by-pass, drew up in front of the station at seven minutes to three – an advance on the scheduled time which enabled the driver and conductor to adjourn for refreshment to an adjacent snackbar.",
+   "USE": 1
   }
  ],
  "02:54": [
@@ -1223,8 +1222,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=iRTNBAAAQBAJ&pg=PT221&dq=%22six+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "At six minutes to three we're going to get out of the car and walk around the bend. At five minutes to three we'll join the rest of the detail and move on Bernie Maxwell's house. The chief wanted you in on this because of your concern",
-   "USE": null
+   "Quote_Long": "The house we're going to hit is just around the bend. You and I will go by my watch. At six minutes to three we're going to get out of the car and walk around the bend.",
+   "USE": 1
   },
   {
    "Time": "02:54",
@@ -1235,22 +1234,22 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=aJM4DwAAQBAJ&pg=PT412&dq=%22six+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "They rounded the north-eastern corner of Skarlandet Island at six minutes to three, and there was enough light from the rising moon for Killigrew to see the narrow strait between Skärlandet and Svartbäck less than six hundred yards off the starboard bow. 'Three points to port,' he told Fuller",
-   "USE": null
+   "Quote_Long": "They rounded the north-eastern corner of Skärlandet Island at six minutes to three, and there was enough light from the rising moon for Killigrew to see the narrow strait between Skärlandet and Svartbäck less than six hundred yards off the starboard bow.",
+   "USE": 1
   }
  ],
  "02:57": [
   {
    "Time": "02:57",
-   "Quote_Time": "three minutes to three",
+   "Quote_Time": "Three minutes to three A.M.",
    "Quote": "... three minutes to three in the mornin '. After gloomin ' all afternoon and evenin ' ' bout a letter he'd received in the afternoon mail. Three minutes to three A.M. he kilt himself. And no mistake, neither, ' bout the hour an...",
    "Title": "The Case of the Barking Clock",
    "Author": "Harry Stephen Keeler, Hazel Goodwin Keeler",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=-rdkDgAAQBAJ&pg=PA185&dq=%22three+minutes+to+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 2,
-   "Quote_Long": "three minutes to three in the mornin '. After gloomin ' all afternoon and evenin ' ' bout a letter he'd received in the afternoon mail. Three minutes to three A.M. he kilt himself. And no mistake, neither, ' bout the hour an",
-   "USE": null
+   "Quote_Long": "Three minutes to three A.M. he kilt himself. And no mistake, neither, 'bout the hour an' minute that baby knocked on the door o' Paradise!",
+   "USE": 1
   },
   {
    "Time": "02:57",
@@ -1280,15 +1279,15 @@
  "03:02": [
   {
    "Time": "03:02",
-   "Quote_Time": "two minutes past three",
+   "Quote_Time": "Two minutes past three",
    "Quote": "... Two minutes past three it told her. Past three. What had happened to the bells? Rebecca's heart began to beat hard, the way it did when things went wrong. What had happened to the bells? Three minutes past three, said the watch...",
    "Title": "Gate of Darkness, Circle of Light",
    "Author": "Tanya Huff",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=kTudCgAAQBAJ&pg=PT230&dq=%22two+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Two minutes past three it told her. Past three. What had happened to the bells? Rebecca's heart began to beat hard, the way it did when things went wrong. What had happened to the bells? Three minutes past three, said the watch",
-   "USE": null
+   "Quote_Long": "Something was missing. A watch with two huge emeralds caught her eye. Two minutes past three it told her. Past three. What had happened to the bells? Rebecca's heart began to beat hard, the way it did when things went wrong.",
+   "USE": 1
   },
   {
    "Time": "03:02",
@@ -1325,8 +1324,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=qUqpBQAAQBAJ&pg=PT301&dq=%22three+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was three minutes after three. And it hit her. The exact words of the warning. Not three fifteen. But three fifteen, three fifteen, repeated twice. Three fifteen on March fifteenth. That was the deadline. It was happening today. Teddy had twelve minutes to go.",
-   "USE": null
+   "Quote_Long": "It was three minutes after three. And it hit her. The exact words of the warning. Not three fifteen. But three fifteen, three fifteen, repeated twice. Three fifteen on March fifteenth. That was the deadline. It was happening today.",
+   "USE": 1
   },
   {
    "Time": "03:03",
@@ -1342,29 +1341,29 @@
   },
   {
    "Time": "03:03",
-   "Quote_Time": "three minutes past three",
+   "Quote_Time": "Three minutes past three",
    "Quote": "... Three minutes past three, said the watch. Four minutes past. Five minutes past. What had happened to the bells? Unable to stand it any longer, she whirled about and stared from one tower to the next, panic rising. \"Ring,\" she...",
    "Title": "Gate of Darkness, Circle of Light",
    "Author": "Tanya Huff",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=kTudCgAAQBAJ&pg=PT230&dq=%22three+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "What had happened to the bells? Three minutes past three, said the watch. Four minutes past. Five minutes past. What had happened to the bells? Unable to stand it any longer, she whirled about and stared from one tower to the next, panic rising. \"Ring,\" she",
-   "USE": null
+   "Quote_Long": "What had happened to the bells? Three minutes past three, said the watch. Four minutes past. Five minutes past. What had happened to the bells? Unable to stand it any longer, she whirled about and stared from one tower to the next, panic rising. \"Ring,\" she pleaded.",
+   "USE": 1
   }
  ],
  "03:06": [
   {
    "Time": "03:06",
-   "Quote_Time": "six minutes after three",
+   "Quote_Time": "Six minutes after three",
    "Quote": "... Six minutes after three. She dropped the phone into the console, leaned her head back, and closed her eyes. “Jack should be on the phone with Rick by now.” “How long do you think it will take him to get here?” Charles asked. “He'll know...",
    "Title": "Warped Passage",
    "Author": "Debbie S. TenBrink",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=BEiCDwAAQBAJ&pg=PA336&dq=%22six+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Six minutes after three. She dropped the phone into the console, leaned her head back, and closed her eyes. “Jack should be on the phone with Rick by now.” “How long do you think it will take him to get here?” Charles asked. “He'll know",
-   "USE": null
+   "Quote_Long": "Jo pulled out her phone. Six minutes after three. She dropped the phone into the console, leaned her head back, and closed her eyes.",
+   "USE": 1
   },
   {
    "Time": "03:06",
@@ -1382,27 +1381,27 @@
  "03:08": [
   {
    "Time": "03:08",
-   "Quote_Time": "3:08 AM",
+   "Quote_Time": "3:08 a.m.",
    "Quote": "June 23rd Sunrise 3:08 a.m. I wake up to the sound of my stomach growling. At least, I hope it's my stomach. In the Alaskan wilderness, if something is growling, you want it to be your stomach. But it isn't my hunger that...",
-   "Title": "3:21 a.m.",
+   "Title": "3:21 a.m. (Henry Bins 3)",
    "Author": "Nick Pirog",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=DCzbDwAAQBAJ&pg=PT24&dq=%223:08+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "June 23rd Sunrise 3:08 a.m. I wake up to the sound of my stomach growling. At least, I hope it's my stomach. In the Alaskan wilderness, if something is growling, you want it to be your stomach. But it isn't my hunger that",
-   "USE": null
+   "Quote_Long": "June 23rd Sunrise 3:08 a.m. I wake up to the sound of my stomach growling. At least, I hope it's my stomach. In the Alaskan wilderness, if something is growling, you want it to be your stomach.",
+   "USE": 1
   },
   {
    "Time": "03:08",
-   "Quote_Time": "3:08 AM",
+   "Quote_Time": "3:08 a.m.",
    "Quote": "... 3:08 a.m. when the elevator opens to the hospital lobby, and I jog to the street. Isabel is waiting for me in her blue SUV, and I slip into the passenger seat. I haven't even buckled my seatbelt when she steps on the gas and...",
    "Title": "3:53 a.m. (Henry Bins 6)",
    "Author": "Nick Pirog",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=hNPUEAAAQBAJ&pg=PT189&dq=%223:08+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It’s 3:08 a.m. when the elevator opens to the hospital lobby, and I jog to the street. Isabel is waiting for me in her blue SUV, and I slip into the passenger seat. I haven't even buckled my seatbelt when she steps on the gas and screeches out of the parking lot.",
-   "USE": null
+   "Quote_Long": "It's 3:08 a.m. when the elevator opens to the hospital lobby, and I jog to the street. Isabel is waiting for me in her blue SUV, and I slip into the passenger seat. I haven't even buckled my seatbelt when she steps on the gas and screeches out of the parking lot.",
+   "USE": 1
   },
   {
    "Time": "03:08",
@@ -1427,14 +1426,14 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=qVjbDwAAQBAJ&pg=PT79&dq=%22nine+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "There wasn’t a call at nine minutes after three on Tuesday.' For an instant, I had that upside-down feeling you get in a hammerhead ride at the carnival, then I clapped my hands together. 'That's more proof he was up to no good.' Sam looked at me as though I had suddenly broken into s or spoken Portuguese.",
-   "USE": null
+   "Quote_Long": "There wasn’t a call at nine minutes after three on Tuesday.' For an instant, I had that upside-down feeling you get in a hammerhead ride at the carnival, then I clapped my hands together. 'That's more proof he was up to no good.'",
+   "USE": 1
   }
  ],
  "03:11": [
   {
    "Time": "03:11",
-   "Quote_Time": "eleven minutes after three",
+   "Quote_Time": "Eleven minutes after three",
    "Quote": "... Eleven minutes after three. At least several hours until sunrise, until the faint rose of dawn over the ocean would give me even the slimmest hope of spotting my adversaries. That long, too, until the first early risers would be out...",
    "Title": "Bishop's Reach",
    "Author": "Kathryn R. Wall",
@@ -1442,33 +1441,33 @@
    "URL": "http://books.google.ca/books?id=uq5F9rzPxIkC&pg=PT295&dq=%22eleven+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
    "Quote_Long": "Eleven minutes after three. At least several hours until sunrise, until the faint rose of dawn over the ocean would give me even the slimmest hope of spotting my adversaries. That long, too, until the first early risers would be out walking their dogs or strolling the docks, steaming mugs of coffee in hand, sharing the quiet moments before the island stretched itself awake.",
-   "USE": null
+   "USE": 1
   },
   {
    "Time": "03:11",
-   "Quote_Time": "eleven minutes after three",
+   "Quote_Time": "eleven minutes after three a.m.",
    "Quote": "... coffee, but when he opened the cabinet, there was no coffee to brew. He would have to buy some. He glanced at the digital clock at eleven minutes after three a.m.",
    "Title": "Beyond the Realms of Death",
    "Author": "Charles Sherrod",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=ClbzEAAAQBAJ&pg=PT24&dq=%22eleven+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 3,
-   "Quote_Long": "He went to the kitchen to put ona pot of coffee, but when he opened the cabinet, there was no coffee to brew. He would have to buy some. He glanced at the digital clock at eleven minutes after three a.m.",
-   "USE": null
+   "Quote_Long": "He went to the kitchen to put on a pot of coffee, but when he opened the cabinet, there was no coffee to brew. He would have to buy some. He glanced at the digital clock at eleven minutes after three a.m.",
+   "USE": 1
   }
  ],
  "03:12": [
   {
    "Time": "03:12",
-   "Quote_Time": "twelve minutes after three",
+   "Quote_Time": "Twelve minutes after three A.M.",
    "Quote": "Twelve minutes after three A.M. I had arrived at one of the few places they might not think to hunt me. Nancy's house was dark - like all the others on the way up the hill. No cars around. Carport empty...",
    "Title": "The Star Trap",
    "Author": "Robert Colby",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=819gDwAAQBAJ&pg=PA77&dq=%22twelve+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Twelve minutes after three A.M. I had arrived at one of the few places they might not think to hunt me. Nancy's house was dark - like all the others on the way up the hill. No cars around. Carport empty",
-   "USE": null
+   "Quote_Long": "Twelve minutes after three A.M. I had arrived at one of the few places they might not think to hunt me.",
+   "USE": 1
   }
  ],
  "03:13": [
@@ -1481,8 +1480,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=eGBNDwAAQBAJ&pg=PT41&dq=%22thirteen+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "When Gregor pounds on my front door at thirteen minutes after three, the sound makes my head throb. I know it's Gregor because he might as well be the giant up Jack's beanstalk for the fee-fi-fo-fum of his fists on the door. “Coming!” I bellow. I slide off the sofa and kick Carrick’s leg out of the way.",
-   "USE": null
+   "Quote_Long": "When Gregor pounds on my front door at thirteen minutes after three, the sound makes my head throb. I know it's Gregor because he might as well be the giant up Jack's beanstalk for the fee-fi-fo-fum of his fists on the door.",
+   "USE": 1
   },
   {
    "Time": "03:13",
@@ -1493,22 +1492,22 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=m07kCgAAQBAJ&pg=PT14&dq=%22thirteen+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was thirteen minutes past three o'clock, which meant the deadline for Abdel's phone call had been and gone exactly thirteen minutes ago. Precisely as Ben had instructed Abdel to allow to happen. If the Romanians anywhere near lived up to",
-   "USE": null
+   "Quote_Long": "It was thirteen minutes past three o'clock, which meant the deadline for Abdel's phone call had been and gone exactly thirteen minutes ago. Precisely as Ben had instructed Abdel to allow to happen.",
+   "USE": 1
   }
  ],
  "03:16": [
   {
    "Time": "03:16",
-   "Quote_Time": "3:16 AM",
+   "Quote_Time": "3:16 a.m.",
    "Quote": "... 3:16 a.m. The President clears his throat. “Remember when I came to play poker?” I nod. “Well a couple days before that, Red broke into your apartment with his little gadget there.” “Why?” “Standard safety check,” Red chimes. “He is the...",
-   "Title": "3:10 a.m.",
+   "Title": "3:10 a.m. (Henry Bins 2)",
    "Author": "Nick Pirog",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=gHlYDwAAQBAJ&pg=PT69&dq=%223:16+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "3:16 a.m. The President clears his throat. “Remember when I came to play poker?” I nod. “Well a couple days before that, Red broke into your apartment with his little gadget there.” “Why?” “Standard safety check,” Red chimes. “He is the President of the United States.",
-   "USE": null
+   "Quote_Long": "“You talk to your cat?” the President says with a raised eyebrows. I ignore him. “You have five minutes.” I look down at my phone. 3:16 a.m.",
+   "USE": 1
   },
   {
    "Time": "03:16",
@@ -1531,8 +1530,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=gbi7CwAAQBAJ&pg=PT137&dq=%22sixteen+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "At sixteen minutes after three o'clock in the morning, a car screeched to a stop outside his window. He eased back the edge of the drapes. Outside, a car door opened and Mariah was roughly shoved out onto the pavement. She stumbled and",
-   "USE": null
+   "Quote_Long": "At sixteen minutes after three o'clock in the morning, a car screeched to a stop outside his window. He eased back the edge of the drapes. Outside, a car door opened and Mariah was roughly shoved out onto the pavement.",
+   "USE": 1
   },
   {
    "Time": "03:16",
@@ -1543,10 +1542,11 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=n66gEAAAQBAJ&pg=PT46&dq=%22sixteen+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "At sixteen minutes past three, he swears and swings his legs over the side of the bed. In the kitchen, light from a near-full moon washes through the window so Tim doesn't bother flicking the switch. Just fills his glass with tap water and stands in front of the sink, looking out into the back yard as he drinks.",
-   "USE": null
+   "Quote_Long": "But his tongue catches on the roof of his mouth and the more he thinks about not needing a drink, the thirstier he feels. At sixteen minutes past three, he swears and swings his legs over the side of the bed.",
+   "USE": 1
   }
  ],
+ //bookmarkmeh
  "03:18": [
   {
    "Time": "03:18",
