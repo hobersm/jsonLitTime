@@ -183,15 +183,15 @@
  "01:21": [
   {
    "Time": "01:21",
-   "Quote_Time": "twenty one minutes past one",
+   "Quote_Time": "twenty-one minutes past one",
    "Quote": "... twenty-one minutes past one. Last time I looked up the hands showed eighteen minutes past. Three minutes, and yet to me it has seemed like an eternity. The passageway is empty, my only company the hum of the coffee machine at the end of...",
    "Title": "The Temptation to Be Happy",
    "Author": "Lorenzo Marone",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=gB69DwAAQBAJ&pg=PT136&dq=%22twenty+one+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twenty-one minutes past one. Last time I looked up the hands showed eighteen minutes past. Three minutes, and yet to me it has seemed like an eternity. The passageway is empty, my only company the hum of the coffee machine at the end of the corridor and the smell of alcohol floating in the s in they've been operating on her for about two hours.",
-   "USE": null
+   "Quote_Long": "According to the clock it's twenty-one minutes past one. Last time I looked up the hands showed eighteen minutes past. Three minutes, and yet to me it has seemed like an eternity.",
+   "USE": 1
   },
   {
    "Time": "01:21",
@@ -1546,19 +1546,18 @@
    "USE": 1
   }
  ],
- //bookmarkmeh
  "03:18": [
   {
    "Time": "03:18",
-   "Quote_Time": "3:18am",
+   "Quote_Time": "3:18AM",
    "Quote": "... 3:18AM. Paragon Building Site Four Board Room “S-So you use the knives, to predict the future? And change it?” Avant asked, disparagement in her voice. “Only small things, for now. Actionable intelligence processed and printed in real...",
    "Title": "Anymart Six",
    "Author": "E.S. Mitchell",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XQqtDAAAQBAJ&pg=PA139&dq=%223:18am%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "3:18AM. Paragon Building Site Four Board Room “S-So you use the knives, to predict the future? And change it?” Avant asked, disparagement in her voice. “Only small things, for now. Actionable intelligence processed and printed in real time.",
-   "USE": null
+   "Quote_Long": "Tuesday morning. 3:18AM. Paragon Building Site Four Board Room “S-So you use the knives, to predict the future? And change it?”",
+   "USE": 1
   },
   {
    "Time": "03:18",
@@ -1569,8 +1568,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=fBwKDQAAQBAJ&pg=PT28&dq=%223:18am%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Sure, Everest wasn't a witch and it was again: ina Castus establishment, but I really doubted that Chambers would care at all to nd witches awa an The last digits I saw displayed on my clock were 3:18am. I was already dreading morning by the time sleep finally pulled me under. Silas crouched on the beach, swishing his pale hands through the dark water that splashed at the shore. He looked calm, serene, unperturbed by my sudden appearance.",
-   "USE": null
+   "Quote_Long": "The last digits I saw displayed on my clock were 3:18am. I was already dreading morning by the time sleep finally pulled me under.",
+   "USE": 1
   },
   {
    "Time": "03:18",
@@ -1612,15 +1611,15 @@
  "03:22": [
   {
    "Time": "03:22",
-   "Quote_Time": "twenty two minutes after three",
+   "Quote_Time": "twenty-two minutes after three",
    "Quote": "... twenty-two minutes after three,” he said, showing me his watch. “Why did you ask me if you're wearing a watch?” I questioned. “I didn't really want to know what time it is. I just wanted to know that our watches were pretty much in...",
    "Title": "Caged Eagles",
    "Author": "Eric Walters",
    "Categories": "Young Adult Fiction",
    "URL": "http://books.google.ca/books?id=NZcfD-_01_gC&pg=PA235&dq=%22twenty+two+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twenty-two minutes after three,” he said, showing me his watch. “Why did you ask me if you're wearing a watch?” I questioned. “I didn't really want to know what time it is. I just wanted to know that our watches were pretty much in agreement as to the time.",
-   "USE": null
+   "Quote_Long": "“I've got twenty-two minutes after three,” he said, showing me his watch. “Why did you ask me if you're wearing a watch?” I questioned. “I didn't really want to know what time it is. I just wanted to know that our watches were pretty much in agreement as to the time.",
+   "USE": 1
   },
   {
    "Time": "03:22",
@@ -1636,55 +1635,55 @@
   },
   {
    "Time": "03:22",
-   "Quote_Time": "twenty two minutes after three",
+   "Quote_Time": "Twenty-two minutes after three",
    "Quote": "... Twenty-two minutes after three o'clock in the morning. There was a reason you possessed all the things you gathered around you in the days. There was a reason for being too busy all the time, and falling into bed too tired to think. He...",
    "Title": "Living in the Weather of the World",
    "Author": "Richard Bausch",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=3_KmDAAAQBAJ&pg=PA232&dq=%22twenty+two+minutes+after+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "“Oh, God, what is it?” she said, seeing him standing in the Twenty-two minutes after three o'clock in the morning. There was a reason you possessed all the things you gathered around you in the days. There was a reason for being too busy all the time, and falling into bed too tired to think. He sat there having this thought.",
-   "USE": null
+   "Quote_Long": "Twenty-two minutes after three o'clock in the morning. There was a reason you possessed all the things you gathered around you in the days. There was a reason for being too busy all the time, and falling into bed too tired to think. He sat there having this thought.",
+   "USE": 1
   }
  ],
  "03:23": [
   {
    "Time": "03:23",
-   "Quote_Time": "3:23 AM",
+   "Quote_Time": "3:23 a.m.",
    "Quote": "... 3:23 a.m., and she hadn't heard from him since. The uncertainty gnawed at her — where could he be? Had he successfully crossed the Potomac? Was he stranded somewhere in the cold? Her attempts to reach Richard had been fruitless...",
    "Title": "3:53 a.m.",
    "Author": "Nick Pirog",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=hNPUEAAAQBAJ&pg=PT201&dq=%223:23+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It had been at 3:23 a.m., and she hadn't heard from him since. The uncertainty gnawed at her — where could he be? Had he successfully crossed the Potomac? Was he stranded somewhere in the cold? Her attempts to reach Richard had been fruitless, with no™ response to her calls and texts.",
-   "USE": null
+   "Quote_Long": "Ingrid's insides were entangled in a knot of worry. It had been hours since Henry's last text at 3:23 a.m., and she hadn't heard from him since. The uncertainty gnawed at her — where could he be?",
+   "USE": 1
   },
   {
    "Time": "03:23",
-   "Quote_Time": "twenty three minutes past three",
+   "Quote_Time": "twenty-three minutes past three",
    "Quote": "... twenty-three minutes past three.\" Goldberg was a little irked at Patrick's precision, but he wrote it down.\" You asleep when she called?\"\" No. Mrs. Abbott and I had come in only a few minutes before Mrs. Bland rang up. We'd...",
    "Title": "The Pink Umbrella",
    "Author": "Frances Crane",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=LtBxEAAAQBAJ&pg=PT53&dq=%22twenty+three+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 2,
-   "Quote_Long": "Bland left this house at twenty-three minutes past three.” Goldberg was a little irked at Patrick’s precision, but he wrote it down. ‘You asleep when she called? “No. Mrs. Abbott and I had come in only a few minutes before Mrs. Bland rang up. We'd been to a nightclub, The Blue Angel—to be exact.",
-   "USE": null
+   "Quote_Long": "That would mean that Mrs. Bland left this house at twenty-three minutes past three.” Goldberg was a little irked at Patrick's precision, but he wrote it down. “You asleep when she called?” “No. Mrs. Abbott and I had come in only a few minutes before Mrs. Bland rang up. We'd been to a nightclub, The Blue Angel—to be exact.",
+   "USE": 1
   }
  ],
  "03:24": [
   {
    "Time": "03:24",
-   "Quote_Time": "twenty four minutes past three",
+   "Quote_Time": "twenty-four minutes past three",
    "Quote": "... twenty-four minutes past three before Jimmy mouthed the first sentence of the day that even he was unable to shorten. 'I do,” he said. T really feel festive now, said Elizabeth, as they lay in bed on the morning of Friday, December the...",
    "Title": "Reginald Perrin Omnibus",
    "Author": "David Nobbs",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=KwkHM-6QpLUC&pg=PA729&dq=%22twenty+four+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was twenty-four minutes past three before Jimmy mouthed the first sentence of the day that even he was unable to shorten. 'I do,” he said. T really feel festive now, said Elizabeth, as they lay in bed on the morning of Friday, December the twenty-third.",
-   "USE": null
+   "Quote_Long": "It was twenty-four minutes past three before Jimmy mouthed the first sentence of the day that even he was unable to shorten. ‘I do,’ he said. ‘I really feel festive now,’ said Elizabeth, as they lay in bed on the morning of Friday, December the twenty-third.",
+   "USE": 1
   },
   {
    "Time": "03:24",
@@ -1714,15 +1713,15 @@
  "03:26": [
   {
    "Time": "03:26",
-   "Quote_Time": "twenty six minutes past three",
+   "Quote_Time": "twenty-six minutes past three",
    "Quote": "... twenty-six minutes past three in the morning, my vengeance was complete. By ten minutes to seven, all the dogs were in disgrace. They slunk about, red ears pinned to their heads, yellow eyes downcast. Sir Edward spoke of it calmly...",
    "Title": "The Folk Keeper",
    "Author": "Franny Billingsley",
    "Categories": "Juvenile Fiction",
    "URL": "http://books.google.ca/books?id=_ABN-HTAVsgC&pg=PA69&dq=%22twenty+six+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twenty-six minutes past three in the morning, my vengeance was complete. By ten minutes to seven, all the dogs were in disgrace. They slunk about, red ears pinned to their heads, yellow eyes downcast. Sir Edward spoke of it calmly enough at breakfast.",
-   "USE": null
+   "Quote_Long": "By twenty-six minutes past three in the morning, my vengeance was complete.",
+   "USE": 1
   }
  ],
  "03:27": [],
@@ -1738,8 +1737,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=bEHO6Mo4re8C&pg=PA114&dq=%22thirty+two+minutes+past+three%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 3,
-   "Quote_Long": "thirty two minutes past three. In her left hand she held my drink, in her right hand she held a kingsize packet of Rizlas, and a carton of Marlboro Lights.",
-   "USE": null
+   "Quote_Long": "The laughing barmaid entered the smoking area at thirty two minutes past three. In her left hand she held my drink, in her right hand she held a kingsize packet of Rizlas, and a carton of Marlboro Lights.",
+   "USE": 1
   }
  ],
  "03:48": [
@@ -1752,8 +1751,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=U2_fH4Fu36IC&pg=PT238&dq=%22twelve+minutes+to+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twelve minutes to four both sides began firing at a range of eight miles and a speed of nearly thirty (land) miles an hour. Jutland was a gunner's battle, just as the naval experts had foretold; though torpedoes played their part. It was much too fast and furious for submarines; and the thickening mist made aircraft useless.",
-   "USE": null
+   "Quote_Long": "At twelve minutes to four both sides began firing at a range of eight miles and a speed of nearly thirty (land) miles an hour.",
+   "USE": 1
   }
  ],
  "03:52": [
@@ -1767,7 +1766,7 @@
    "URL": "http://books.google.ca/books?id=8bqZDwAAQBAJ&pg=PT61&dq=%223:52am%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
    "Quote_Long": "The glowing red numbers on the bedside clock said 3:52am. Tom blinked a few times, unsure why he had woken. The house was shrouded in silence. It took him a few moments to realise there was no steady breathing coming from the other side of the bed.",
-   "USE": null
+   "USE": 1
   }
  ],
  "03:53": [
@@ -1780,8 +1779,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=ROdMRnY4OzMC&pg=PT90&dq=%22seven+minutes+to+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "seven minutes to four the sniper sent the email, but the pressure and uncertainty deprived him of any sense of pleasure. His nerves drove him up from the computer. He tugged open the drawer, took out the Chana's keys, walked.",
-   "USE": null
+   "Quote_Long": "At seven minutes to four the sniper sent the email, but the pressure and uncertainty deprived him of any sense of pleasure.",
+   "USE": 1
   },
   {
    "Time": "03:53",
@@ -1792,7 +1791,7 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=ReowAAAAQBAJ&pg=PA6&dq=%22seven+minutes+to+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "He looks at one of the clocks hanging from the iron arches and calculates that for several hours it has been night in Madrid, as the minute hand advances with an identi- cal spasm in all the illuminated spheres, jumping from eight to seven, a stroke of time like an urgent heartbeat, the step one takes into the void on falling asleep: seven minutes to four; the train he's supposed to catch leaves at four and he has no idea where to go, which of the paths intersecting in the crowd like currents on the ocean's surface is the one that will carry him to his destination.",
+   "Quote_Long": "He looks at one of the clocks hanging from the iron arches and calculates that for several hours it has been night in Madrid, as the minute hand advances with an identical spasm in all the illuminated spheres, jumping from eight to seven, a stroke of time like an urgent heartbeat, the step one takes into the void on falling asleep: seven minutes to four; the train he's supposed to catch leaves at four and he has no idea where to go, which of the paths intersecting in the crowd like currents on the ocean's surface is the one that will carry him to his destination.",
    "USE": null
   },
   {
@@ -1804,8 +1803,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=XA0kDwAAQBAJ&pg=PA91&dq=%22seven+minutes+to+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "’ 117 Tee clock on the Sligo Slasher’s wall showed seven minutes to four when Bart Hardin hurried through the door. Tony Maclaren said,\" Hello, ya Protestant bum. Ye're seven minutes early and ye're all outta breath. Have an Irish to relax ya, then wash yer feet and take a nap.",
-   "USE": null
+   "Quote_Long": "The clock on the Sligo Slasher's wall showed seven minutes to four when Bart Hardin hurried through the door. Tony Maclaren said, \"Hello, ya Protestant bum.",
+   "USE": 1
   }
  ],
  "03:56": [],
@@ -1819,8 +1818,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=wbIFEQAAQBAJ&pg=PT256&dq=%22nine+minutes+after+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "You then left the B&B at nine minutes after four in the morning and returned again an hour and eleven minutes later. Where did you go?\" \"For a drive.\" \"A neighbor of Suzette's went over to her home at approximately eight thirty Saturday morning with a",
-   "USE": null
+   "Quote_Long": "\"You then left the B&B at nine minutes after four in the morning and returned again an hour and eleven minutes later. Where did you go?\"",
+   "USE": 1
   },
   {
    "Time": "04:09",
@@ -1836,15 +1835,15 @@
   },
   {
    "Time": "04:09",
-   "Quote_Time": "nine minutes after four",
+   "Quote_Time": "Nine minutes after four",
    "Quote": "... Nine minutes after four o'clock in the morning, he turned left onto Rue des Cloys and stopped in midstride, petrified by the scene unfolding less than two blocks ahead of him. A company of Wehrmacht and a platoon of Waffen - SS...",
    "Title": "The Midnight Front",
    "Author": "David Mack",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=qPvWDgAAQBAJ&pg=PT199&dq=%22nine+minutes+after+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was as i the Nazis had gone on Nine minutes after four o'clock in the morning, he turned left onto Rue des Cloys and stopped in midstride, petrified by the scene unfolding less than two blocks ahead of him. A company of Wehrmacht and a platoon of Waffen - SS",
-   "USE": null
+   "Quote_Long": "Nine minutes after four o'clock in the morning, he turned left onto Rue des Cloys and stopped in midstride, petrified by the scene unfolding less than two blocks ahead of him.",
+   "USE": 1
   }
  ],
  "04:10": [
@@ -1857,8 +1856,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=Z46G7YQZ-JEC&pg=PA99&dq=%22ten+minutes+after+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "ten minutes after four. Lewis decided to give his Chief of Staff the down and dirty version of his captivity, release and brief period of recovery in Nanticoke Hospital. The details of his abduction and captivity were delivered in a summary fashion, given that Martinez had asked him to limit his discussion of the details with anyone other than law enforcement until the case was closed.",
-   "USE": null
+   "Quote_Long": "Bender showed up about ten minutes after four. Lewis decided to give his Chief of Staff the down and dirty version of his captivity, release and brief period of recovery in Nanticoke Hospital.",
+   "USE": 1
   }
  ],
  "04:19": [],
@@ -1872,8 +1871,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=h0yaBAAAQBAJ&pg=PA243&dq=%22twenty+minutes+past+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "But that night again at five minutes past twelve and again at twenty minutes past four the first teletype resumed its clatter. qtsf wuxz24 hkOOvey w311mcbq yvers chtq oorhg tfc aijbf, w dpiuxqaz ywgfd bvcxzasdf wertyu. -tcaw 5 Here was a different combination of letters and figures. The first",
-   "USE": null
+   "Quote_Long": "But that night again at five minutes past twelve and again at twenty minutes past four the first teletype resumed its clatter. qtsf wuxz24 hkOOvey w311mcbq yvers chtq oorhg tfc aijbf, w dpiuxqaz ywgfd bvcxzasdf wertyu. -tcaw 5 Here was a different combination of letters and figures.",
+   "USE": 1
   },
   {
    "Time": "04:20",
@@ -1884,22 +1883,22 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=od-d0OwX4-wC&pg=PA1&dq=%22twenty+minutes+past+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was now twenty minutes past four in the morning, allowing for the fact that the clock in the library of his town house was four minutes slow, as it had been for as far back as he could remember. He eyed it with a frown of concentration. Now that he came to think about it, he must have it set right one of these days.",
-   "USE": null
+   "Quote_Long": "It was now twenty minutes past four in the morning, allowing for the fact that the clock in the library of his town house was four minutes slow, as it had been for as far back as he could remember.",
+   "USE": 1
   }
  ],
  "04:21": [
   {
    "Time": "04:21",
-   "Quote_Time": "twenty one minutes after four",
+   "Quote_Time": "twenty-one minutes after four",
    "Quote": "... twenty-one minutes after four in the morning. His writing had become uglier with each line. After a while his hands held the exercise book and the pen, but his head lay on the writing. He had fallen asleep on the exercise book. The last...",
    "Title": "Survival",
    "Author": "Scott Hudson, Zsolt Berzi",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=UFKFDwAAQBAJ&pg=PA12&dq=%22twenty+one+minutes+after+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "He wrote until twenty-one minutes after four in the morning. His writing had become uglier with each line. After a while his hands held the exercise book and the pen, but his head lay on the writing. He had fallen asleep on the exercise book. The last",
-   "USE": null
+   "Quote_Long": "He wrote until twenty-one minutes after four in the morning. His writing had become uglier with each line. After a while his hands held the exercise book and the pen, but his head lay on the writing.",
+   "USE": 1
   },
   {
    "Time": "04:21",
@@ -1910,7 +1909,7 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=f8XYEAAAQBAJ&pg=PT258&dq=%22twenty+one+minutes+past+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Hastily picking up his phone, he noted the time - twenty-one minutes past four. Jackson made his way back to his office, retrieved Nero's discarded card from the waste paper basket, and found himself at the Reficul Society at ten o'clock the following morning. He discovered that many members there had shared similar experiences - some had narrowly avoided elevator cable breaks, while others had foreseen minor car accidents.",
+   "Quote_Long": "Hastily picking up his phone, he noted the time-twenty-one minutes past four. Jackson made his way back to his office, retrieved Nero's discarded card from the waste paper basket, and found himself at the Reficul Society at ten o'clock the following morning. He discovered that many members there had shared similar experiences - some had narrowly avoided elevator cable breaks, while others had foreseen minor car accidents.",
    "USE": null
   }
  ],
@@ -1918,7 +1917,7 @@
  "04:26": [
   {
    "Time": "04:26",
-   "Quote_Time": "twenty six minutes after four",
+   "Quote_Time": "twenty-six minutes after four",
    "Quote": "... twenty-six minutes after four. Talbot stood, biting his cheek. The attendant seemed angrier than he. “I seen that,\" he offered. “You want a car? You want to chase them?\" He was hot and furious. \"Not I,\" said Andy. \"I...",
    "Title": "Catch-As-Catch-Can",
    "Author": "Charlotte Armstrong",
@@ -1930,44 +1929,56 @@
   },
   {
    "Time": "04:26",
-   "Quote_Time": "twenty six minutes past four",
+   "Quote_Time": "twenty-six minutes past four",
    "Quote": "... twenty-six minutes past four o'clock, the edge of dawn. She stared at the clock as another minute passed. It seemed like an hour. The gun in her hand weighed heavily. She was supposed to protect herself. But what about Liam? He...",
    "Title": "Rocky Mountain Manhunt",
    "Author": "Cassie Miles",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=WQArf1wU6OIC&pg=PT102&dq=%22twenty+six+minutes+past+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twenty-six minutes past four o'clock, the edge of dawn. She stared at the clock as another minute passed. It seemed like an hour. The gun in her hand weighed heavily. She was supposed to protect herself. But what about Liam? He was virtually unarmed.",
-   "USE": null
+   "Quote_Long": "She never should have left the mountains. The hunters wouldn't give up until she was dead. The digital clock on the windowsill read twenty-six minutes past four o'clock, the edge of dawn.",
+   "USE": 1
   }
  ],
  "04:27": [
   {
    "Time": "04:27",
-   "Quote_Time": "twenty seven minutes after four",
+   "Quote_Time": "twenty-seven minutes after four",
    "Quote": "... twenty-seven minutes after four and the streets were quiet. And dark. It would be more than two hours before the sky would begin to lighten. “Where to now?” Pink asked. Manny took his phone from his trouser pocket and swiped the screen...",
    "Title": "The Becić Connection",
    "Author": "Estelle Ryan",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=fifZDwAAQBAJ&pg=PT21&dq=%22twenty+seven+minutes+after+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was twenty-seven minutes after four and the streets were quiet. And dark. It would be more than two hours before the sky would begin to lighten. “Where to now?” Pink asked. Manny took his phone from his trouser pocket and swiped the screen",
-   "USE": null
+   "Quote_Long": "It was twenty-seven minutes after four and the streets were quiet. And dark. It would be more than two hours before the sky would begin to lighten.",
+   "USE": 1
   },
   {
    "Time": "04:27",
-   "Quote_Time": "twenty seven minutes past four",
+   "Quote_Time": "twenty-seven minutes past four",
    "Quote": "... twenty-seven minutes past four, by the clock in the blue drawing-room, she was to be found in that spacious, somber, yet magnificent apartment. She was wearing her second-best turban, a black silk dress, and a collar of priceless old...",
    "Title": "Araminta",
    "Author": "John Collis Snaith",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=00p0hpCARcsC&pg=PT42&dq=%22twenty+seven+minutes+past+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twenty-seven minutes past four, by the clock in the blue drawing-room, she was to be found in that spacious, somber, yet magnificent apartment. She was wearing her second-best turban, a black silk dress, and a collar of priceless old lace, secured by a brooch which was said to have been given to an ancestress by good Queen Elizabeth, who, for reasons of state, afterwards cut off the head of the recipient.",
-   "USE": null
+   "Quote_Long": "I lay stress upon the time—twenty-seven minutes past four—for that is the hour at which this history really begins.",
+   "USE": 1
   }
  ],
  "04:28": [
+  {
+   "Time": "04:28",
+   "Quote_Time": "Twenty-eight minutes after four",
+   "Quote": "... Twenty-eight minutes after four. He could feel the pressure building inside him like lidded steam. Moisture was on his brow and there was an unpleasant clamminess under his arms. His whole life was a thing of closed doors. He...",
+   "Title": "The Captain Must Die",
+   "Author": "Robert Colby",
+   "Categories": "Fiction",
+   "URL": "http://books.google.ca/books?id=NZFQDwAAQBAJ&pg=PA68&dq=%22twenty+eight+minutes+after+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
+   "SELECT": 1,
+   "Quote_Long": "He looked at his watch. Twenty-eight minutes after four. He could feel the pressure building inside him like lidded steam.",
+   "USE": 1
+  },
   {
    "Time": "04:28",
    "Quote_Time": "twenty eight minutes past four",
@@ -1984,15 +1995,15 @@
  "04:29": [
   {
    "Time": "04:29",
-   "Quote_Time": "twenty nine minutes past four",
+   "Quote_Time": "twenty-nine minutes past four",
    "Quote": "... twenty-nine minutes past four. I called Palmer. After seven rings he answered. \"What, John?\" No irritation. If I was not mistaken, there had even been concern. \"They've kidnapped Robbi.\" \"No, no, no.\" \"Palmer...",
    "Title": "The Fortieth Step",
    "Author": "Stephen Timmins",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=Mu7xEAAAQBAJ&pg=PT76&dq=%22twenty+nine+minutes+past+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was twenty-nine minutes past four. I called Palmer. After seven rings he answered. \"What, John?\" No irritation. If I was not mistaken, there had even been concern. \"They've kidnapped Robbi.\" \"No, no, no.\" \"Palmer",
-   "USE": null
+   "Quote_Long": "It was twenty-nine minutes past four. I called Palmer. After seven rings he answered. \"What, John?\" No irritation. If I was not mistaken, there had even been concern. \"They've kidnapped Robbi.\"",
+   "USE": 1
   }
  ],
  "04:33": [
@@ -2005,12 +2016,12 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=qfiVEAAAQBAJ&pg=PT41&dq=%224:33am%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "4:33am Merry Christmas Baby. 4:31am I'm good. Stop texting and driving. 4:32am It's Christmas! 4:33am #everything Yay, he's parking at the airport. I released a sigh of relief. The first of many sighs, I'm sure. For me, each leg of his trip is an emotional journey.",
-   "USE": null
+   "Quote_Long": "4:32am It's Christmas! 4:33am Merry Christmas Baby. 4:33am #everything",
+   "USE": 1
   },
   {
    "Time": "04:33",
-   "Quote_Time": "thirty three minutes past four",
+   "Quote_Time": "thirty-three minutes past four",
    "Quote": "... thirty-three minutes past four the hand of the indicator suddenly shot around to one side, and the scientist arose. “We have caught a fish,” he said. “Come on!” They were in the automobile, speeding along the highway, before Hatch spoke...",
    "Title": "The Thinking Machine",
    "Author": "Jacques Futrelle",
@@ -2018,7 +2029,7 @@
    "URL": "http://books.google.ca/books?id=9-1SEAAAQBAJ&pg=PT90&dq=%22thirty+three+minutes+past+four%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
    "Quote_Long": "At thirty-three minutes past four the hand of the indicator suddenly shot around to one side, and the scientist arose. “We have caught a fish,” he said. “Come on!” They were in the automobile, speeding along the highway, before Hatch spoke.",
-   "USE": null
+   "USE": 1
   }
  ],
  "04:39": [
@@ -2031,22 +2042,22 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=OPxFEAAAQBAJ&pg=PT455&dq=%224:39am%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "4:39am Tommy: I brought long pajamas. 4:39am Maxi: Hahaha... It's so great to see you in such a great mood and so happy! 4:40am Maxi: Long pyjamas {pajamas} will go out of the window! 4:40am Tommy: What do your plugs for your outlets look like? 4:40am Maxi: What? 4:41am Maxi: Aaah Stecker {plug}? 4:41am Tommy: image (American plug) 4:41am Tommy: So, I can charge my phone and computer.",
-   "USE": null
+   "Quote_Long": "4:39am Maxi: Hahaha... It's so great to see you in such a great mood and so happy!",
+   "USE": 1
   }
  ],
  "04:42": [
   {
    "Time": "04:42",
-   "Quote_Time": "4:42 AM",
+   "Quote_Time": "4:42 a.m.",
    "Quote": "... (4:42 a.m. Eastern Daylight Time) Air Force One Mogadishu, Somalia Luke opened his eyes. He was strapped into one of the pilot's chairs. There was nothing in front of him. At first, he didn't understand what he was seeing. It seemed as...",
    "Title": "The Forging of Luke Stone",
    "Author": "Jack Mars",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=6iJJEAAAQBAJ&pg=PT342&dq=%224:42+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "East Africa Time (4:42 a.m. Eastern Daylight Time) Air Force One Mogadishu, Somalia Luke opened his eyes. He was strapped into one of the pilot's chairs. There was nothing in front of him. At first, he didn't understand what he was seeing. It seemed as though nothing was ther He looked down at his hands.",
-   "USE": null
+   "Quote_Long": "(4:42 a.m. Eastern Daylight Time) Air Force One Mogadishu, Somalia— Luke opened his eyes. He was strapped into one of the pilot's chairs.",
+   "USE": 1
   },
   {
    "Time": "04:42",
@@ -2071,22 +2082,22 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=K8lHDwAAQBAJ&pg=PA280&dq=%22sixteen+minutes+to+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "His watch indicated sixteen minutes to five. The area was still clear of the bakery crew. With luck, the baker already had enough rolls made for this morning, or he had found some excuse to celebrate, and no one would get bread for breakfast. Karl had only",
-   "USE": null
+   "Quote_Long": "His watch indicated sixteen minutes to five. The area was still clear of the bakery crew. With luck, the baker already had enough rolls made for this morning, or he had found some excuse to celebrate, and no one would get bread for breakfast.",
+   "USE": 1
   }
  ],
  "04:49": [
   {
    "Time": "04:49",
-   "Quote_Time": "4:49 AM",
+   "Quote_Time": "4:49 a.m.",
    "Quote": "... 4:49 a.m. my time, Hannah would've already arrived at Lila's, helping prepare for another hectic day. Her last text was from yesterday afternoon on her tenminute break, before she'd teased me last night about fairy-tale Halloween...",
    "Title": "No Weddings",
    "Author": "Kat Bastion, Stone Bastion",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=VYjnDwAAQBAJ&pg=PT1060&dq=%224:49+AM%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "But at 4:49 a.m. my time, Hannah would've already arrived at Lila's, helping prepare for another hectic day. Her last text was from yesterday afternoon on her tenminute break, before she'd teased me last night about fairy-tale Halloween",
-   "USE": null
+   "Quote_Long": "Energy gone and needing a jolt, I reached for my phone. Without thinking, I clicked into the text box. But at 4:49 a.m. my time, Hannah would've already arrived at Lila's, helping prepare for another hectic day.",
+   "USE": 1
   },
   {
    "Time": "04:49",
@@ -2097,22 +2108,22 @@
    "Categories": "Young Adult Fiction",
    "URL": "http://books.google.ca/books?id=LTwyEAAAQBAJ&pg=PT71&dq=%224:49am%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "4:49am: “Eddie, what the hell—?” I stood in a frenzy. I stepped in front of Mom who had the oven door half-opened, smoke billowing out. “No, no, no, no, no! Damn it.” My weekend sat in a charred pile of clay in the oven. Smoke poured out.",
-   "USE": null
+   "Quote_Long": "4:49am: “Eddie, what the hell—?” I stood in a frenzy. I stepped in front of Mom who had the oven door half-opened, smoke billowing out. “No, no, no, no, no! Damn it.” My weekend sat in a charred pile of clay in the oven.",
+   "USE": 1
   }
  ],
  "04:51": [
   {
    "Time": "04:51",
-   "Quote_Time": "nine minutes to five",
+   "Quote_Time": "Nine minutes to five",
    "Quote": "... Nine minutes to five. If this wasn't some new ordeal, intended to fray her nerves to shreds, if this important person really did exist, if he'd actually set up this appointment, and if, moreover, he arrived on time, then there...",
    "Title": "Compulsory Happiness",
    "Author": "Norman Manea",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=KK4eJFLspL8C&pg=PT11&dq=%22nine+minutes+to+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Nine minutes to five. If this wasn't some new ordeal, intended to fray her nerves to shreds, if this important person really did exist, if he'd actually set up this appointment, and if, moreover, he arrived on time, then there were nine minutes lefi.",
-   "USE": null
+   "Quote_Long": "Nine minutes to five. If this wasn't some new ordeal, intended to fray her nerves to shreds, if this important person really did exist, if he'd actually set up this appointment, and if, moreover, he arrived on time, then there were nine minutes left.",
+   "USE": 1
   }
  ],
  "04:52": [
@@ -2137,8 +2148,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=_ipHEAAAQBAJ&pg=PT92&dq=%22eight+minutes+to+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was eight minutes to five, and Libby was packing up her bag. She almost sneaked out a few minutes early, until a shrill voice called her name. She cringed, dropped her head and turned toward the voice. “Yes?” Elissa stopped at Libby's",
-   "USE": null
+   "Quote_Long": "It was eight minutes to five, and Libby was packing up her bag. She almost sneaked out a few minutes early, until a shrill voice called her name. She cringed, dropped her head and turned toward the voice.",
+   "USE": 1
   }
  ],
  "04:53": [],
@@ -2153,8 +2164,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=StlbDwAAQBAJ&pg=PT184&dq=%225:17am%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "ve were already playing 5:17am Jameson read it. 'Or that could work.' Bloom looked down at the screen, waiting for a reply. Blocked Whatever would give you that impression, Dr Bloom? 5:18am Let me show you what it's really like to play. 5:18am Bloom and Jameson looked at each other.",
-   "USE": null
+   "Quote_Long": "Bloom: I thought we were already playing.—5:17am Jameson read it. 'Or that could work.' Bloom looked down at the screen, waiting for a reply. Blocked: Whatever would give you that impression, Dr Bloom? Let me show you what it's really like to play.—5:18am",
+   "USE": 1
   }
  ],
  "05:19": [
@@ -2167,8 +2178,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=MNBxEAAAQBAJ&pg=PT52&dq=%22nineteen+minutes+after+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 2,
-   "Quote_Long": "nineteen minutes after five o’clocl “You call that roughly speaking?” Bill purred. “When you’ve got a party out fishing you get in the habit of checking the time.” “Just why should you check time because of a knife?” hat wasn’t it.",
-   "USE": null
+   "Quote_Long": "“Roughly speaking,” Cy said, “I saw that knife at nineteen minutes after five o'clock.” “You call that roughly speaking?” Bill purred.",
+   "USE": 1
   },
   {
    "Time": "05:19",
@@ -2179,56 +2190,56 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=P-2gUOCwc2oC&pg=PT265&dq=%22nineteen+minutes+past+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "nineteen minutes past five on the morning of the eleventh of December, 1989. It immediately burst into flame. But the two men on board did not notice their bodies catching fire. They had died — torn into pieces - at the moment of",
-   "USE": null
+   "Quote_Long": "The airplane struck the ground with vehement force at nineteen minutes past five on the morning of the eleventh of December, 1989.",
+   "USE": 1
   }
  ],
  "05:21": [
   {
    "Time": "05:21",
-   "Quote_Time": "twenty one minutes after five",
+   "Quote_Time": "twenty-one minutes after five",
    "Quote": "... twenty-one minutes after five. If Phipps is punctual, that gives you only four minutes.\" By this time Durkin had the suit-case open. In another half-minute he had the casing off the transmitter. Then a deft turn or two with...",
    "Title": "The Wire Tappers",
    "Author": "Arthur Stringer",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=vIC_EAAAQBAJ&pg=PA98&dq=%22twenty+one+minutes+after+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "\"It's twenty-one minutes after five. If Phipps is punctual, that gives you only four minutes.\" By this time Durkin had the suit-case open. In another half-minute he had the casing off the transmitter. Then a deft turn or two with his screw-driver.",
-   "USE": null
+   "Quote_Long": "\"It's twenty-one minutes after five. If Phipps is punctual, that gives you only four minutes.\"",
+   "USE": 1
   }
  ],
  "05:22": [
   {
    "Time": "05:22",
-   "Quote_Time": "twenty two minutes after five",
+   "Quote_Time": "Twenty-two minutes after five",
    "Quote": "... Twenty-two minutes after five. It was too early to go see Layla. She'd be sleeping. He reached for the remote and turned on the television. Channel surfed for fifteen minutes before turning off the power and tossing the remote to the...",
    "Title": "Her Dangerous Truth",
    "Author": "Beverly Long",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=vO5SEAAAQBAJ&pg=PT216&dq=%22twenty+two+minutes+after+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Twenty-two minutes after five. It was too early to go see Layla. She'd be sleeping. He reached for the remote and turned on the television. Channel surfed for fifteen minutes before turning off the power and tossing the remote to the side.",
-   "USE": null
+   "Quote_Long": "He picked up his phone to check the time. Twenty-two minutes after five. It was too early to go see Layla. She'd be sleeping.",
+   "USE": 1
   }
  ],
  "05:29": [
   {
    "Time": "05:29",
-   "Quote_Time": "twenty nine minutes after five",
+   "Quote_Time": "twenty-nine minutes after five",
    "Quote": "... twenty-nine minutes after five. Allowing him sixty seconds to rise from the carved baroque chair and let his eyes linger successively on the elements: the bed, the statue, the draperies, the half circle of candles. Yes...",
    "Title": "A Death Before Dying",
    "Author": "Collin Wilcox",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=8YtVAQAAQBAJ&pg=PT48&dq=%22twenty+nine+minutes+after+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Or was it the nightmare, really only one? Would he ever really know Time: twenty-nine minutes after five. Allowing him sixty seconds to rise from the carved baroque chair and let his eyes linger successively on the elements: the bed, the statue, the draperies, the half circle of candles. Yes",
-   "USE": null
+   "Quote_Long": "Time: twenty-nine minutes after five. Allowing him sixty seconds to rise from the carved baroque chair and let his eyes linger successively on the elements: the bed, the statue, the draperies, the half circle of candles.",
+   "USE": 1
   }
  ],
  "05:32": [
   {
    "Time": "05:32",
-   "Quote_Time": "5:32am",
+   "Quote_Time": "5:32AM",
    "Quote": "5:32AM Akiko was in a store that sold memories, a mishmash of tawdry emancipation bottled into faked vulnerability and fingernails from forgotten musicians grilled on kebabs of misplaced desire.",
    "Title": "United States of Japan",
    "Author": "Peter Tieryas",
@@ -2261,23 +2272,23 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=nR7TDwAAQBAJ&pg=PT289&dq=%22twenty-seven+minutes+to+six%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Glancing up at the wall clock, above the pantry door, the hands pointed to twenty-seven minutes to six. December 26 was closing in. Soon, a new day would begin. In less than a week, 1947 would end. A change from her normal routine, Mott decided not to read in bed. A trait Jay and she had in common. Instead, she would read in the kitchen.",
-   "USE": null
+   "Quote_Long": "Glancing up at the wall clock, above the pantry door, the hands pointed to twenty-seven minutes to six. December 26 was closing in. Soon, a new day would begin. In less than a week, 1947 would end.",
+   "USE": 1
   }
  ],
  "05:36": [],
  "05:39": [
   {
    "Time": "05:39",
-   "Quote_Time": "twenty-one minutes to six",
+   "Quote_Time": "Twenty-one minutes to six",
    "Quote": "... Twenty-one minutes to six,\" answered Clara and I at the same moment. \"Now turn round and look at the clock—well, what do you say now? It is twenty-one minutes past six, isn't it?\" It was now Clara's and my turn to make our deductions...",
    "Title": "The Black Tortoise",
    "Author": "Christian Sparre",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=8vjXDwAAQBAJ&pg=PT142&dq=%22twenty-one+minutes+to+six%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "“Now turn round and look at the clock— It is Twenty-one minutes to six,\" answered Clara and I at the same moment. \"Now turn round and look at the clock—well, what do you say now? It is twenty-one minutes past six, isn't it?\" It was now Clara's and my turn to make our deductions.",
-   "USE": null
+   "Quote_Long": "“Look in the mirror now, and tell me what the time is.” “Twenty-one minutes to six,” answered Clara and I at the same moment.",
+   "USE": 1
   },
   {
    "Time": "05:39",
@@ -2317,32 +2328,32 @@
    "Categories": "Juvenile Fiction",
    "URL": "http://books.google.ca/books?id=j3XrEAAAQBAJ&pg=PT20&dq=%225:47am%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 3,
-   "Quote_Long": "Bike is in the garage, don’t forget to lock up the house! Love you! **5:47am** Also, the school is just down the street, you can't miss it... unless you go the wrong way hah hah hah. Central Middle School. Love you! The “hah hah hah” always made me laugh.",
-   "USE": null
+   "Quote_Long": "**5:47am** 'Also, the school is just down the street, you can't miss it... unless you go the wrong way hah hah hah. Central Middle School. Love you!' The “hah hah hah” always made me laugh. He often used his car's smart features to send messages and the computer always spelled it out like that when he would laugh at his own jokes.",
+   "USE": 1
   },
   {
    "Time": "05:47",
-   "Quote_Time": "forty seven minutes past five",
+   "Quote_Time": "forty-seven minutes past five",
    "Quote": "... forty-seven minutes past five.” A long murmur followed this declaration. But above it was immediately heard a feminine voice repeating three times: “It is false — false — false — for I, Jovita Foley, left Lizzie Wag twenty-five minutes...",
    "Title": "The Will of an Eccentric",
    "Author": "Jules Verne",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=IpH5DwAAQBAJ&pg=PT9514&dq=%22forty+seven+minutes+past+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "forty-seven minutes past five.” A long murmur followed this declaration. But above it was immediately heard a feminine voice repeating three times: “It is false — false — false — for I, Jovita Foley, left Lizzie Wag twenty-five minutes",
+   "Quote_Long": "“for she died this morning at forty-seven minutes past five.” A long murmur followed this declaration. But above it was immediately heard a feminine voice repeating three times: “It is false — false — false — for I, Jovita Foley, left Lizzie Wag twenty-five minutes ago, alive and well.”",
    "USE": null
   },
   {
    "Time": "05:47",
-   "Quote_Time": "forty seven minutes past five",
+   "Quote_Time": "forty-seven minutes past five",
    "Quote": "... forty-seven minutes past five. Before dawn. On a Sunday. “Finally,” Rue said. “I thought you'd never get up.” “I'm not up.” He rolled to his side, away from the light. “Don't you dare go back to sleep.” He was vaguely aware that she was...",
    "Title": "Christmas Cover-up",
    "Author": "Cassie Miles",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=pA2iAGFMeEUC&pg=PA163&dq=%22forty+seven+minutes+past+five%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "” id it was forty-seven minutes past five. Before dawn. On a Sunday. “Finally,” Rue said. “I thought you'd never get up.” “I'm not up.” He rolled to his side, away from the light. “Don't you dare go back to sleep.” He was vaguely aware that she was fully dressed, which meant no chance for wake-up sex.",
-   "USE": null
+   "Quote_Long": "Rue hovered over him, flicking her finger at his earlobe. What the hell? The clock said it was forty-seven minutes past five. Before dawn. On a Sunday.",
+   "USE": 1
   }
  ],
  "05:48": [
@@ -2367,8 +2378,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=pqLACwAAQBAJ&pg=PA97&dq=%22twelve+minutes+to+six%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twelve minutes to six,\" said Thump. \"It's twenty-three minutes before the hour of three,\" said Ephram. \"He's not to suppose that he has been relieved of his duty,\" said Charlotte after the members of the Moosepath League had bowed their way out.",
-   "USE": null
+   "Quote_Long": "“Snow beginning by morning,” said Eagleton. “Expected moderate to large accumulations. Wind in the northwest.” “High tide at twelve minutes to six,” said Thump.",
+   "USE": 1
   }
  ],
  "05:49": [
@@ -2396,8 +2407,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=c7i1AwAAQBAJ&pg=PT69&dq=%22seven+minutes+to+six%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 2,
-   "Quote_Long": "It was seven minutes to six. He had six and a half more minutes. The story finished, he took out his diary, and gloated upon the amount of overtime already due to him, £ 2 5s. 6d. Riches indeed! By working from five o'clock until nine",
-   "USE": null
+   "Quote_Long": "It was seven minutes to six. He had six and a half more minutes. The story finished, he took out his diary, and gloated upon the amount of overtime already due to him, £2 5s. 6d. Riches indeed!",
+   "USE": 1
   }
  ],
  "05:54": [
@@ -2410,8 +2421,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=Swxokc_aGF4C&pg=PT302&dq=%22six+minutes+to+six%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "six minutes to six; I must wait six more minutes before taking her round. I have been rather hasty with the wine too, in my excitement; the glass is almost empty, and I am not due for another till 6:28, when the battle is joined.",
-   "USE": null
+   "Quote_Long": "But I have been too hasty—it is still only six minutes to six; I must wait six more minutes before taking her round.",
+   "USE": 1
   }
  ],
  "05:56": [
@@ -2436,8 +2447,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=U2_fH4Fu36IC&pg=PT250&dq=%22four+minutes+to+six%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "At four minutes to six Jellicoe sighted Beatty. Five minutes later he asked him for the position of the German line. Nine minutes later he asked again. The smoke and mist were so bad at first that it was not till 6.14 that Beatty could say exactly.",
-   "USE": null
+   "Quote_Long": "At four minutes to six Jellicoe sighted Beatty. Five minutes later he asked him for the position of the German line. Nine minutes later he asked again.",
+   "USE": 1
   }
  ],
  "05:59": [
@@ -2468,6 +2479,7 @@
    "USE": 1
   }
  ],
+ //bookmarkmeh
  "06:03": [
   {
    "Time": "06:03",
