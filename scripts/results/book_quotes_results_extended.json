@@ -4325,7 +4325,6 @@
    "USE": 1
   }
  ],
- //bookmarkmeh
  "13:07": [
   {
    "Time": "13:07",
@@ -4336,8 +4335,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=KMNyJqJDyg8C&pg=PT159&dq=%22seven+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "seven minutes after one. He got out of his car, took a deep breath and walked toward the entrance. Before he could get inside the funeral home, he passed by a couple of disgruntled family members. They were mad about having to chip in their last twenty dollars to bury JC when he still owed one of them fifty dollars.",
-   "USE": null
+   "Quote_Long": "JC's trifflin' mama and daddy didn't need no prayer. They needed a butt whupping. Isaac parked his car in the funeral home parking lot at about seven minutes after one. He got out of his car, took a deep breath and walked toward the entrance.",
+   "USE": 1
   }
  ],
  "13:12": [
@@ -4350,36 +4349,36 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=RFdsCwAAQBAJ&pg=PT83&dq=%22twelve+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 4,
-   "Quote_Long": "So up to twelve minutes after one, anybody who was in the theatre could have killed Bolton.\" She shook her head over the fact. “It isn't as neat as I'd hoped,\" she said.",
+   "Quote_Long": "So up to twelve minutes after one, anybody who was in the theatre could have killed Bolton.\" She shook her head over the fact. “It isn't as neat as I'd hoped,\"",
    "USE": 1
   }
  ],
  "13:14": [
   {
    "Time": "13:14",
-   "Quote_Time": "1:14 PM",
+   "Quote_Time": "1:14 pm",
    "Quote": "Amelia ( 1:14 pm, Saturday ): Deal. I've sent him your number. And thanks. Anya ( 1:14 pm, Saturday ): Yeah... Amelia ( 1:17 pm, Saturday ): And before I forget, watch out for the spark.",
    "Title": "King's Curse",
    "Author": "Lavanya Bhambure",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=AWmxEAAAQBAJ&pg=PT31&dq=%221:14+PM%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 4,
-   "Quote_Long": "Amelia ( 1:14 pm, Saturday ): Deal. I've sent him your number. And thanks. Anya ( 1:14 pm, Saturday ): Yeah... Amelia ( 1:17 pm, Saturday ): And before I forget, watch out for the spark.",
+   "Quote_Long": "Amelia (1:14 pm, Saturday): Deal. I've sent him your number. And thanks. Anya (1:14 pm, Saturday): Yeah... Amelia (1:17 pm, Saturday): And before I forget, watch out for the spark.",
    "USE": 1
   }
  ],
  "13:19": [
   {
    "Time": "13:19",
-   "Quote_Time": "1:19pm",
+   "Quote_Time": "1:19 PM",
    "Quote": "“In 4 Hour's and, 48 Minute's.” They look at the clock it's 1:19PM. Bill said. “That's 6:07 well we better get going Kenny Ray we can't wait that long.”",
    "Title": "Amyl Ion 1",
    "Author": "Carroll Holst",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=jNpBEAAAQBAJ&pg=PT134&dq=%221:19pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 4,
-   "Quote_Long": "“In 4 Hour's and, 48 Minute's.” They look at the clock it's 1:19PM. Bill said. “That's 6:07 well we better get going Kenny Ray we can't wait that long.”",
-   "USE": 1
+   "Quote_Long": "“In 4 Hour's and, 48 Minute's.” They look at the clock it's 1:19 PM. Bill said. “That's 6:07 well we better get going Kenny Ray we can't wait that long.”",
+   "USE": null
   },
   {
    "Time": "13:19",
@@ -4390,8 +4389,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=IvpLp2lfkMsC&pg=PT45&dq=%22nineteen+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "nineteen minutes after one o'clock the following afternoon, the Texas and Pacific train pulled into the depot of El Paso, exactly twenty-two minutes late. As Ki stepped down from the train behind Jessie with their luggage in his hands, he saw Opal leave the second class coach and come running toward him along the wooden platform.",
-   "USE": null
+   "Quote_Long": "At nineteen minutes after one o'clock the following afternoon, the Texas and Pacific train pulled into the depot of El Paso, exactly twenty-two minutes late. As Ki stepped down from the train behind Jessie with their luggage in his hands, he saw Opal leave the second class coach and come running toward him along the wooden platform.",
+   "USE": 1
   }
  ],
  "13:21": [
@@ -4404,8 +4403,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=LqkwnuTgxQAC&pg=PA71&dq=%22twenty+one+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twenty one minutes past one his head of black curls were seen negotiating the top of the hill. His belly he had left behind as he walked down the mound of earth. He wiped the tears from his streaming eyes as he headed for the last bit of cod.",
-   "USE": null
+   "Quote_Long": "While the bones were separated from the cod, all eyes remained on the hilltop that Jack had scaled. At twenty one minutes past one his head of black curls were seen negotiating the top of the hill.",
+   "USE": 1
   }
  ],
  "13:22": [
@@ -4418,20 +4417,20 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=wRVzAgAAQBAJ&pg=PA139&dq=%221:22pm%22&hl=&as_brr=6&as_pt=BOOKS&cd=6&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "“They called it in at 1:22pm, Thursday,” Inspector Joseph answered, referring to a typed report from Christiansted Air Traffic Controllers. “1:22pm, Thursday,” Menez said. “Does that mean something to you?” “Yes—that's a little more than an hour after the alleged shootout at | airfield; according to witnesses; it does fit a piece of the puzzle,” Mic said Inspector, this case is getting more bizarre by the day, I'd like to come o and get with you and your people on this, if that’s okay with your departmer he asked.",
-   "USE": null
+   "Quote_Long": "“1:22pm, Thursday,” Menez said. “Does that mean something to you?” “Yes—that's a little more than an hour after the alleged shootout at the airfield; according to witnesses; it does fit a piece of the puzzle,”",
+   "USE": 1
   },
   {
    "Time": "13:22",
-   "Quote_Time": "twenty two minutes past one",
+   "Quote_Time": "twenty-two minutes past one",
    "Quote": "... twenty-two minutes past one. We stopped just after we had passed Burton Salmon. I eased the horse up onto the grass verge under the shade of some sort of tree, so it could eat if it wanted to. We needed water for the horse but I was...",
    "Title": "All About Eva",
    "Author": "Malcolm J. Brooks",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=aI5T713eg24C&pg=PA107&dq=%22twenty+two+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "twenty-two minutes past one. We stopped just after we had passed Burton Salmon. I eased the horse up onto the grass verge under the shade of some sort of tree, so it could eat if it wanted to. We needed water for the horse but I was",
-   "USE": null
+   "Quote_Long": "It was twenty-two minutes past one. We stopped just after we had passed Burton Salmon. I eased the horse up onto the grass verge under the shade of some sort of tree, so it could eat if it wanted to.",
+   "USE": 1
   }
  ],
  "13:27": [
@@ -4452,15 +4451,15 @@
  "13:29": [
   {
    "Time": "13:29",
-   "Quote_Time": "twenty nine minutes after one",
+   "Quote_Time": "Twenty-nine minutes after one",
    "Quote": "... Twenty-nine minutes after one; a minute later than the last time she looked. She paced the floor. Soon she'd find out if this was going to work. She still had done nothing to prepare Odessa, because she didn't want to give him any...",
    "Title": "The Memory Thief",
    "Author": "Don Donaldson",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=H51iBAAAQBAJ&pg=PT115&dq=%22twenty+nine+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Twenty-nine minutes after one; a minute later than the last time she looked. She paced the floor. Soon she'd find out if this was going to work. She still had done nothing to prepare Odessa, because she didn't want to give him any advance warning.",
-   "USE": null
+   "Quote_Long": "Marti checked her watch for the fifth time. Twenty-nine minutes after one; a minute later than the last time she looked. She paced the floor.",
+   "USE": 1
   }
  ],
  "13:31": [],
@@ -4481,29 +4480,29 @@
  "13:38": [
   {
    "Time": "13:38",
-   "Quote_Time": "thirty eight minutes after one",
+   "Quote_Time": "Thirty-eight minutes after one",
    "Quote": "... Thirty-eight minutes after one. Only an hour and thirty-five minutes had passed. Excellent, really. She opened the safe. Remembering her lessons, she took care to remove and then place the items in order so they could be returned with...",
    "Title": "Iron Dove",
    "Author": "Judith Leon",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=qkwlAKzWz2UC&pg=PA158&dq=%22thirty+eight+minutes+after+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "Thirty-eight minutes after one. Only an hour and thirty-five minutes had passed. Excellent, really. She opened the safe. Remembering her lessons, she took care to remove and then place the items in order so they could be returned with",
-   "USE": null
+   "Quote_Long": "Thirty-eight minutes after one. Only an hour and thirty-five minutes had passed. Excellent, really. She opened the safe.",
+   "USE": 1
   }
  ],
  "13:40": [
   {
    "Time": "13:40",
-   "Quote_Time": "forty minutes past one",
+   "Quote_Time": "forty minutes past one o'clock in the afternoon",
    "Quote": "... forty minutes past one o'clock in the afternoon. Mukhter's head phone came to life. —Sir, the flight has become visible on the screen. It was Iftekhar Hamid's voice. —Well, watch and confirm. —Right Sir. Ten seconds later Iftekhar was...",
    "Title": "Dusk, Dawn and Liberation",
    "Author": "Masud Ahmed",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=7I9RAgAAQBAJ&pg=PA51&dq=%22forty+minutes+past+one%22&hl=&as_brr=6&as_pt=BOOKS&cd=7&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was forty minutes past one o'clock in the afternoon. Mukhter's head phone came to life. —Sir, the flight has become visible on the screen. It was Iftekhar Hamid's voice. —Well, watch and confirm. —Right Sir. Ten seconds later Iftekhar was once again on the phone, —Sir, the radar system and wireless together confirming the flight arrival.",
-   "USE": null
+   "Quote_Long": "The only international flight of the day had been diverted earlier to Kathmandu, Nepal. It was forty minutes past one o'clock in the afternoon. Mukhter's head phone came to life. —Sir, the flight has become visible on the screen.",
+   "USE": 1
   }
  ],
  "13:41": [
@@ -4530,8 +4529,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=DG72DwAAQBAJ&pg=PT54&dq=%22seventeen+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "seventeen minutes to two. Just as you said... to the dot!' 'I hope you don't mind, Tabitha,' she said, slightly embarrassed. 'Not at all, Lucy,' I said, 'the more the merrier.' I didn't care if Noel and Liam Gallagher came along and had a proper fi fight in the middle of the living room rug, as long as they made the afternoon slip b ‘Mammy has been in such a twizzle about the party,’ said Michael, ‘that she has been on the phone to me and to Lucy about it for weeks, The least Lucy deserves is an invitation.",
-   "USE": null
+   "Quote_Long": "'Perfectly on time, as always. It's... exactly... seventeen minutes to two. Just as you said... to the dot!'",
+   "USE": 1
   },
   {
    "Time": "13:43",
@@ -4542,7 +4541,7 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=1B0YAwAAQBAJ&pg=PT135&dq=%22seventeen+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "At seventeen minutes to two the artist threw down his brushes, laid his palette on a paint-spattered table and declared, 'There we are. That'll do. Enough.' The painting was finished. He turned to look at Harry, who had sat silently against the far wall.",
+   "Quote_Long": "At seventeen minutes to two the artist threw down his brushes, laid his palette on a paint-spattered table and declared, 'There we are. That'll do. Enough.' The painting was finished.",
    "USE": null
   },
   {
@@ -4554,8 +4553,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=zly7QxC53rkC&pg=PA259&dq=%22seventeen+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=5&source=gbs_api",
    "SELECT": 2,
-   "Quote_Long": "seventeen minutes to two, ” said Didier. He blessed himself and got to his feet. He hesitated.\" What's the matter? ”\" Shouldn't we say goodbye to Grandpa? He usually has a cheque for me...\"\" Let me take care of that. Let's",
-   "USE": null
+   "Quote_Long": "“There's a train at seventeen minutes to two,” said Didier. He blessed himself and got to his feet. He hesitated. “What's the matter?” “Shouldn't we say goodbye to Grandpa? He usually has a cheque for me...”",
+   "USE": 1
   }
  ],
  "13:46": [],
@@ -4569,8 +4568,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=VEVyDwAAQBAJ&pg=PT770&dq=%22nine+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was nine minutes to two. “My watch has stopped,” he said, and returned to the weather side, leaving me in the comparative shelter of the companion near the wheel, although I would have preferred to have been with him. It was two o'clock",
-   "USE": null
+   "Quote_Long": "It was nine minutes to two. “My watch has stopped,” he said, and returned to the weather side, leaving me in the comparative shelter of the companion near the wheel, although I would have preferred to have been with him.",
+   "USE": 1
   },
   {
    "Time": "13:51",
@@ -4595,28 +4594,28 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=-drKDwAAQBAJ&pg=PT155&dq=%22eight+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=4&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was eight minutes to two before we had any encouragement at all. The cashier of the Haymarket State Bank & Trust Company thought he could recognize the picture. In considerable excitement, we trailed him down to the vault where an old",
-   "USE": null
+   "Quote_Long": "It was eight minutes to two before we had any encouragement at all. The cashier of the Haymarket State Bank & Trust Company thought he could recognize the picture.",
+   "USE": 1
   }
  ],
  "13:53": [
   {
    "Time": "13:53",
-   "Quote_Time": "seven minutes to two",
+   "Quote_Time": "seven minutes to two. 1.53",
    "Quote": "... seven minutes to two. 1.53. ' As the judge disappeared through her private exit, the three figures seated along from Alice began to rouse themselves, murmuring to each other in low voices and shuffling in a line towards the door...",
    "Title": "The Road to Hell",
    "Author": "Gillian Galbraith",
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=cMa8BQAAQBAJ&pg=PT187&dq=%22seven+minutes+to+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It’s seven minutes to one now, so we'll adjourn and restart proceedings at exactly seven minutes to two. 1.53. ' As the judge disappeared through her private exit, the three figures seated along from Alice began to rouse themselves, murmuring to each other in low voices and shuffling in a line towards the door.",
-   "USE": null
+   "Quote_Long": "'I think we'll start his, or her, evidence, whoever they may be, after lunch. It's seven minutes to one now, so we'll adjourn and restart proceedings at exactly seven minutes to two. 1.53.'",
+   "USE": 1
   }
  ],
  "14:03": [
   {
    "Time": "14:03",
-   "Quote_Time": "2:03pm",
+   "Quote_Time": "2:03PM",
    "Quote": "2:03PM LUCIO: DUDE, YOU DOIN ZOMBIE CRAWL THIS WKND? SHD BE A BLAST. LOL. 2:03PM BEN: SORRY, GOT BIGGER FISH TO FRY.;-) 2:04PM LUCIO: KLKL, IT'S GONNA BE A GD 1 THO.",
    "Title": "Way of the Barefoot Zombie",
    "Author": "Jasper Bark",
@@ -4675,8 +4674,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=D2wfbCoXu44C&pg=PA290&dq=%22eight+minutes+after+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "eight minutes after two. The black tower shimmered against the sky; an optical trick played by the sun. Pollard studied the tower. She tried telling herself this was the one-in-a-million chance when a coincidence was just a coincidence but she didn't believe it.",
-   "USE": null
+   "Quote_Long": "The sky over Westwood was a brilliant clear blue when Pollard rolled into the parking lot. It was eight minutes after two. The black tower shimmered against the sky; an optical trick played by the sun.",
+   "USE": 1
   },
   {
    "Time": "14:08",
@@ -4687,14 +4686,14 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=ncm-DwAAQBAJ&pg=PT55&dq=%22eight+minutes+past+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=1&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "’ ‘And w answer your phone either? Harry just shrugs his shoulders ‘Hurry up; we're going to miss the eight minutes past two train to Aldershot.' 'You still want to go?' 'Of course, it's going to be amazing.' Although Harry seemed quite angry when we first met up, overall he doesn't seem too affected by the traumatic experience. However",
-   "USE": null
+   "Quote_Long": "'Hurry up; we're going to miss the eight minutes past two train to Aldershot.' 'You still want to go?' 'Of course, it's going to be amazing.' Although Harry seemed quite angry when we first met up, overall he doesn't seem too affected by the traumatic experience.",
+   "USE": 1
   }
  ],
  "14:09": [
   {
    "Time": "14:09",
-   "Quote_Time": "nine minutes past two",
+   "Quote_Time": "Nine minutes past two",
    "Quote": "They would surely try to knock him on the head again. It was just a question of when. Nine minutes past two in the afternoon. Nineteen minutes until the ambush.",
    "Title": "Red Strike",
    "Author": "Chris Ryan",
@@ -4715,8 +4714,8 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=PVmEDwAAQBAJ&pg=PA141&dq=%22eleven+minutes+after+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=2&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "eleven minutes after two, and he started back again at two fourteen.\" \"Then he was considerably longer finding his way out than he had been finding his way in.\" \"Yes. I was surprised that he did find his way out. He made some very bad mistakes, and at one point I was ready to go down and rescue him I'd say he was extraordinarily lucky.",
-   "USE": null
+   "Quote_Long": "\"Were you able to see what he was doing when he knelt down?\" \"No. The action puzzled me. The time of furthest penetration, as you will see in the diagram, was eleven minutes after two, and he started back again at two fourteen.\"",
+   "USE": 1
   }
  ],
  "14:12": [
@@ -4729,13 +4728,14 @@
    "Categories": "Fiction",
    "URL": "http://books.google.ca/books?id=WnMzd9p2rWIC&pg=PA137&dq=%22twelve+minutes+after+two%22&hl=&as_brr=6&as_pt=BOOKS&cd=3&source=gbs_api",
    "SELECT": 1,
-   "Quote_Long": "It was only twelve minutes after two o'clock. Twelve minutes for fourteen, maybe more, men to die. He was not surprised at this, not after having been in battles where scores had died in twelve minutes. But he had to admit to himself that this had been the most touch and go fight of all, for had one window been 137 The Cossack Cowboy cleared of defenders, the gunfighters would have swarmed inside and painted a completely different picture.",
-   "USE": null
+   "Quote_Long": "It was only twelve minutes after two o'clock. Twelve minutes for fourteen, maybe more, men to die.",
+   "USE": 1
   }
  ],
  "14:14": [],
  "14:17": [],
  "14:18": [],
+ //bookmarkmeh
  "14:21": [
   {
    "Time": "14:21",
