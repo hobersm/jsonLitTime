@@ -25,7 +25,7 @@ def search_books(query, current_key):
         'printType': 'books',
         'filter': 'paid-ebooks',
         'orderBy': 'relevance',
-        'maxResults': 7,
+        'maxResults': 15,
         "langRestrict": "en",
         'key': current_key
     }

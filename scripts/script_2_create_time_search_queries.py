@@ -21,7 +21,7 @@ def to_12hr_time2(hour, minute):
 # Function to generate search queries for a given time
 def generate_search_queries(time):
     hour, minute = map(int, time.split(':'))
-    minute_word = num2words(minute).replace('-', ' ')
+    minute_word = num2words(minute)#.replace('-', ' ')
     minute_word_with_o = f"o {minute_word}" if minute < 10 else minute_word
     queries = [
         # f'"{time}"',

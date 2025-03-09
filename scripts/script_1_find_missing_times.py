@@ -36,7 +36,7 @@ def main():
         if os.path.exists(file_path):
             all_minutes = find_missing_times_in_file(file_path, all_minutes)
 
-    file_path = os.path.join(current_directory+r'\scripts', 'missing_times.txt')
+    file_path = os.path.join(current_directory+r'\scripts', 'missing_times_2.txt')
     # Write the missing times to a text file
     with open(file_path, 'w') as file:
         for time in all_minutes:
